@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Mean Maximization",
+      "path": "Mean Maximization.md"
+    },
+    {
+      "basename": "Pair sum in a BST",
+      "path": "Pair sum in a BST.md"
+    },
+    {
+      "basename": "BSTCNNotes",
+      "path": "Assets/BSTCNNotes.pdf"
+    },
+    {
+      "basename": "BinaryTree.excalidraw",
+      "path": "BinaryTree/BinaryTree.excalidraw.md"
+    },
+    {
       "basename": "2025-08-18",
       "path": "DailyNotes/2025-08-18.md"
     },
@@ -21,24 +37,12 @@
       "path": "Kanbans/TODO Ques.md"
     },
     {
-      "basename": "BSTCNNotes",
-      "path": "Assets/BSTCNNotes.pdf"
-    },
-    {
-      "basename": "Pair sum in a BST",
-      "path": "Pair sum in a BST.md"
-    },
-    {
       "basename": "Check BST",
       "path": "BST/Qs/Check BST.md"
     },
     {
       "basename": "sortspec",
       "path": "sortspec.md"
-    },
-    {
-      "basename": "BinaryTree.excalidraw",
-      "path": "BinaryTree/BinaryTree.excalidraw.md"
     },
     {
       "basename": "ZigZag tree",

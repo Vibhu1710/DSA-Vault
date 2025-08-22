@@ -80,6 +80,7 @@ module.exports = class DsaProblemImporterPlugin extends Plugin {
 
       const { scrapeLeetCode } = require(path.join(pluginDir, 'leetcodeScraper.js'));
       const { scrapeCodeChef } = require(path.join(pluginDir, 'codechefScraper.js'));
+      const { scrapeCodeForces } = require(path.join(pluginDir, 'codeforcesScraper.js'));
       const { scrapeCodingNinjas } = require(path.join(pluginDir, 'codingNinjasScraper.js'));
 
       const browserWSEndpoint = await getChromeWSEndpoint({
@@ -102,6 +103,10 @@ module.exports = class DsaProblemImporterPlugin extends Plugin {
             platform = 'CodeChef';
             result = await scrapeCodeChef(url, page, html2md);
         }
+        else if (domain.includes('codeforces.com')) {
+          platform = 'CodeForces';
+          result = await scrapeCodeForces(url, page, html2md);
+      }
         else if (domain.includes('classroom.codingninjas.com')){
           platform = 'CodingNinjas';
           result = await scrapeCodingNinjas(url, page, html2md);
