@@ -1,0 +1,21 @@
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Obsidian workspace state (open panes, sidebar position, etc.)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Plugin data that is machine-specific
+.obsidian/plugins/*/data.json
+.obsidian/plugins/obsidian-git/data.json
+
+# Plugin cache folders
+.obsidian/plugins/*/cache/
+.obsidian/plugins/*/node_modules/
+
+# Log files
+*.log
+
+# Backup/temp files from some plugins
+.obsidian/plugins/*/backups/
