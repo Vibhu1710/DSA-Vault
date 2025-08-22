@@ -1,0 +1,17 @@
+{
+    "name": "dsa-problem-importer",
+    "version": "0.1.0",
+    "main": "main.js",
+    "private": true,
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "html-to-md": "^0.8.8",
+        "puppeteer-core": "^24.16.2"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "source",
+  "promptDelete": true,
+  "userIgnoreFilters": [
+    "Templates/Scripts/",
+    "node_modules/"
+  ]
+}

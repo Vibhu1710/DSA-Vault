@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-file:TODO -file:2025",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.00220133463542,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.7257080078125,
+  "repelStrength": 19.3375651041667,
+  "linkStrength": 1,
+  "linkDistance": 77,
+  "scale": 1.0409891120311636,
+  "close": true
+}

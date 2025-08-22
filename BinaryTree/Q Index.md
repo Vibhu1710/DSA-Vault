@@ -1,0 +1,5 @@
+- [[Construct Binary Tree from In-Order Array]]
+- [[Construct Tree from postorder & inorder]]
+- [[ZigZag tree]]
+- [[Level order traversal (newline based)]]
+- [[Diameter of a BT]]
