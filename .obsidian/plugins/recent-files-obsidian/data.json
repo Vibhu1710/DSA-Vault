@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "E. Arithmetics Competition (4)",
-      "path": "E. Arithmetics Competition (4).md"
+      "basename": "E. MEX Count",
+      "path": "E. MEX Count.md"
     },
     {
-      "basename": "E. Arithmetics Competition (3)",
-      "path": "E. Arithmetics Competition (3).md"
+      "basename": "E. MEX Count (1)",
+      "path": "E. MEX Count (1).md"
+    },
+    {
+      "basename": "Pair sum in a BST",
+      "path": "Pair sum in a BST.md"
+    },
+    {
+      "basename": "BinaryTree.excalidraw",
+      "path": "BinaryTree/BinaryTree.excalidraw.md"
+    },
+    {
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
+    },
+    {
+      "basename": "BSTCNNotes",
+      "path": "Assets/BSTCNNotes.pdf"
     },
     {
       "basename": "E. Arithmetics Competition (2)",
@@ -25,18 +41,6 @@
       "path": "Mean Maximization.md"
     },
     {
-      "basename": "Pair sum in a BST",
-      "path": "Pair sum in a BST.md"
-    },
-    {
-      "basename": "BSTCNNotes",
-      "path": "Assets/BSTCNNotes.pdf"
-    },
-    {
-      "basename": "BinaryTree.excalidraw",
-      "path": "BinaryTree/BinaryTree.excalidraw.md"
-    },
-    {
       "basename": "2025-08-18",
       "path": "DailyNotes/2025-08-18.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "2025-08-19",
       "path": "DailyNotes/2025-08-19.md"
-    },
-    {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
     },
     {
       "basename": "Check BST",

@@ -6,17 +6,60 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file: .excalidraw",
+      "color": {
+        "a": 1,
+        "rgb": 13948116
+      }
+    },
+    {
+      "query": "path:BinaryTree  ",
+      "color": {
+        "a": 1,
+        "rgb": 36414
+      }
+    },
+    {
+      "query": "path:BST",
+      "color": {
+        "a": 1,
+        "rgb": 48463
+      }
+    },
+    {
+      "query": "path:DP",
+      "color": {
+        "a": 1,
+        "rgb": 15559718
+      }
+    },
+    {
+      "query": "path:Graph",
+      "color": {
+        "a": 1,
+        "rgb": 9975093
+      }
+    },
+    {
+      "query": "path:Strings  ",
+      "color": {
+        "a": 1,
+        "rgb": 16764774
+      }
+    }
+  ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.00220133463542,
+  "nodeSizeMultiplier": 1.27375895182292,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.7257080078125,
   "repelStrength": 19.3375651041667,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 1.050443019500058,
-  "close": true
+  "scale": 0.925266792113778,
+  "close": false
 }

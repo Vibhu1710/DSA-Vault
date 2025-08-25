@@ -1,17 +1,18 @@
+// codeforcesScraper.js
 async function scrapeCodeForces(url, page, html2md) {
-    // 1) Navigate to the problem page
+    // 1) Navigate
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
     // 2) Candidate selectors (primary is .problem-statement)
     const CANDIDATE_SELECTORS = [
-        '.problem-statement',               // canonical Codeforces structure
+        '.problem-statement',
         'div.problem-statement',
-        '#problem-statement',               // defensive: some mirrors/sites
-        '.problem-view',                    // defensive
-        'div[class*="problem"]'             // very defensive fallback
+        '#problem-statement',
+        '.problem-view',
+        'div[class*="problem"]'
     ];
 
-    // 3) Wait for any of those selectors to appear (or timeout)
+    // 3) Wait for statement container
     let statementSelector = null;
     try {
         await page.waitForFunction(
@@ -25,87 +26,108 @@ async function scrapeCodeForces(url, page, html2md) {
             }
             return null;
         }, CANDIDATE_SELECTORS);
-    } catch (err) {
-        // If nothing was found, we'll fall back later
-    }
+    } catch (_) {}
 
-    // 4) Extract the title
+    // 4) Extract title (same logic as yours)
     let title = 'Untitled Problem';
     try {
         title = await page.evaluate((sel) => {
             const tryText = (el) => (el && el.innerText && el.innerText.trim()) || null;
-
-            // Prefer the Codeforces header title inside the statement block
             if (sel) {
                 const root = document.querySelector(sel);
                 if (root) {
                     const headerTitle = root.querySelector('.header .title');
                     if (tryText(headerTitle)) return tryText(headerTitle);
-
-                    // sometimes the title is in h1/h2/h3 inside the same block
                     const anyH = root.querySelector('h1, h2, h3');
                     if (tryText(anyH)) return tryText(anyH);
                 }
             }
-
-            // Fallbacks: global headings or meta tags
             const globalHeading = document.querySelector('h1, h2, h3');
             if (tryText(globalHeading)) return tryText(globalHeading);
-
             const og = document.querySelector('meta[property="og:title"], meta[name="twitter:title"]');
             if (og && og.content) return og.content.trim();
-
-            // last resort: document.title cleaned
             return (document.title || 'Untitled Problem').replace(/\s*\|\s*Codeforces.*/i, '').trim();
         }, statementSelector);
-    } catch (err) {
-        // keep default title
-    }
+    } catch (_) {}
 
-    // 5) Extract the statement HTML (remove header so title isn't duplicated)
-    let html;
+    // 5) Extract HTML, but:
+    //    - remove <nobr>…</nobr>
+    //    - protect <math>…</math> with placeholders
+    //    - protect <div class="input">…</div> with placeholders
+    let html = '';
+    let preservedInputs = [];
+    let preservedMath = [];
     try {
         if (statementSelector) {
-            html = await page.evaluate((sel) => {
+            const payload = await page.evaluate((sel) => {
                 const root = document.querySelector(sel);
-                if (!root) return '';
+                if (!root) return { html: '', inputs: [], maths: [] };
 
-                // clone to avoid mutating the real page
                 const clone = root.cloneNode(true);
 
-                // Remove the header (title, limits) to avoid duplicating title in body
+                // Remove header (title/limits) to avoid duplication
                 const header = clone.querySelector('.header');
                 if (header) header.remove();
 
-                // Cleanup tiny unusable anchors (internal navigation leftover)
+                // Remove all <nobr> elements (tag + content)
+                clone.querySelectorAll('nobr').forEach(n => n.remove());
+
+                // Protect MathML so html2md won't touch it
+                const maths = [];
+                clone.querySelectorAll('math').forEach((el, idx) => {
+                    const token = `__CF_MATH_${idx}__`;
+                    maths.push({ token, html: el.outerHTML });
+                    const placeholder = document.createTextNode(token);
+                    el.parentNode.replaceChild(placeholder, el);
+                });
+
+                // Protect <div class="input"> blocks (exact original HTML)
+                const inputs = [];
+                clone.querySelectorAll('div.input').forEach((el, idx) => {
+                    const token = `__CF_INPUT_${idx}__`;
+                    inputs.push({ token, html: el.outerHTML });
+                    const placeholder = document.createTextNode(token);
+                    el.parentNode.replaceChild(placeholder, el);
+                });
+
+                // (Optional tiny cleanup)
                 clone.querySelectorAll('a[href^="#"]').forEach(a => {
                     if (!a.innerText || a.innerText.trim().length <= 1) a.remove();
                 });
 
-                // Optional: remove empty invisible nodes
-                clone.querySelectorAll('*').forEach(n => {
-                    if (n.childNodes.length === 0 && !n.innerText) n.remove();
-                });
-
-                return clone.outerHTML;
+                return { html: clone.outerHTML, inputs, maths };
             }, statementSelector);
+
+            html = payload.html || '';
+            preservedInputs = payload.inputs || [];
+            preservedMath = payload.maths || [];
         } else {
-            // Fallback: try main, else whole page content
             try {
                 html = await page.$eval('main', el => el.innerHTML);
             } catch (e) {
                 html = await page.content();
             }
         }
-    } catch (err) {
-        // ultimate fallback
+    } catch (_) {
         html = await page.content();
     }
 
-    // 6) Convert HTML to Markdown
+    // 6) Convert remaining HTML to Markdown
     let markdown = html2md(html || '');
 
-    // 7) Return result (no starter code for Codeforces)
+    // 7) Restore MathML verbatim (raw HTML)
+    for (const m of preservedMath) {
+        markdown = markdown.split(m.token).join(m.html);
+    }
+
+    // 8) Restore <div class="input"> blocks as fenced HTML code blocks
+    //    (So they render cleanly in Obsidian without being mangled)
+    for (const b of preservedInputs) {
+        const replacement = `\n\n\`\`\`html\n${b.html}\n\`\`\`\n\n`;
+        markdown = markdown.split(b.token).join(replacement);
+    }
+
+    // 9) Done
     return { title, markdown };
 }
 
