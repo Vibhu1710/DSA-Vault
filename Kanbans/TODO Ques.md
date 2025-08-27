@@ -19,10 +19,18 @@ kanban-plugin: board
 - [ ] **Obsidian Config Tasks**
 	
 	 - [ ] Figure out highlighting in PDFs
-	 - [ ] 2 more scrapers - codechef, codeforces
-	 - [ ] tagging automation
-	 - [ ] Git configuration
-	 - [ ] Graph view coloring
+	 - [x] 2 more scrapers - codechef, codeforces
+	 - [x] tagging automation
+	 - [x] Git configuration
+	 - [x] Graph view coloring
+- [ ] **This Sunday**
+	
+	- [ ] teeth related research
+	- [ ] rectify codeforces scraper
+	- [ ] improve codechef scraper
+	- [ ] pdf clipping mechanism research
+	<br/>
+	- [ ] VS Code Snippets (templates) research
 
 
 ## Active
