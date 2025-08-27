@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Deletion in BST Theory",
+      "path": "BST/Deletion in BST Theory.md"
+    },
+    {
       "basename": "BSTCNNotes",
       "path": "Assets/BSTCNNotes.pdf"
     },
     {
+      "basename": "BinaryTree.excalidraw",
+      "path": "BinaryTree/BinaryTree.excalidraw.md"
+    },
+    {
+      "basename": "Vector Referencing",
+      "path": "Cpp/Vector Referencing.md"
+    },
+    {
+      "basename": "Cpp.excalidraw",
+      "path": "Cpp/Cpp.excalidraw.md"
+    },
+    {
+      "basename": "Pair sum in a BST",
+      "path": "Pair sum in a BST.md"
+    },
+    {
       "basename": "TODO Ques",
       "path": "Kanbans/TODO Ques.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
     },
     {
       "basename": "2025-08-26",
@@ -27,14 +51,6 @@
     {
       "basename": "E. MEX Count",
       "path": "E. MEX Count.md"
-    },
-    {
-      "basename": "Pair sum in a BST",
-      "path": "Pair sum in a BST.md"
-    },
-    {
-      "basename": "BinaryTree.excalidraw",
-      "path": "BinaryTree/BinaryTree.excalidraw.md"
     },
     {
       "basename": "E. Arithmetics Competition (2)",
@@ -63,10 +79,6 @@
     {
       "basename": "Check BST",
       "path": "BST/Qs/Check BST.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
     },
     {
       "basename": "ZigZag tree",

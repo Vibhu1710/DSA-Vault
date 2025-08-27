@@ -13,6 +13,8 @@ sorting-spec: |
     Excalidraw
     DailyNotes
     ---
+    Cpp
+    ---
     Trees
     BinaryTree
     BST
