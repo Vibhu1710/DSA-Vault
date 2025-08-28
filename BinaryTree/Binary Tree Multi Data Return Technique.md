@@ -9,3 +9,4 @@ usually involve using a custom class for storing data (this is the customary way
 #### Such Questions
 - [[Diameter of a BT]]
 - [[Check BST]]
+- [[Insertion & Deletion in BST]]

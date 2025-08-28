@@ -1,8 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
+    },
+    {
+      "basename": "LCA of BST",
+      "path": "BST/Qs/LCA of BST.md"
+    },
+    {
+      "basename": "Binary Tree Multi Data Return Technique",
+      "path": "BinaryTree/Binary Tree Multi Data Return Technique.md"
+    },
+    {
+      "basename": "Insertion & Deletion in BST",
+      "path": "BST/Qs/Insertion & Deletion in BST.md"
+    },
+    {
+      "basename": "LCA of Binary Tree",
+      "path": "BinaryTree/Qs/LCA of Binary Tree.md"
+    },
+    {
+      "basename": "Construct Binary Tree from In-Order Array",
+      "path": "BinaryTree/Qs/Construct Binary Tree from In-Order Array.md"
+    },
+    {
+      "basename": "Pair sum in a BST",
+      "path": "Pair sum in a BST.md"
+    },
+    {
       "basename": "Deletion in BST Theory",
       "path": "BST/Deletion in BST Theory.md"
+    },
+    {
+      "basename": "Check BST",
+      "path": "BST/Qs/Check BST.md"
+    },
+    {
+      "basename": "E. MEX Count",
+      "path": "E. MEX Count.md"
     },
     {
       "basename": "BSTCNNotes",
@@ -19,14 +55,6 @@
     {
       "basename": "Cpp.excalidraw",
       "path": "Cpp/Cpp.excalidraw.md"
-    },
-    {
-      "basename": "Pair sum in a BST",
-      "path": "Pair sum in a BST.md"
-    },
-    {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
     },
     {
       "basename": "sortspec",
@@ -47,10 +75,6 @@
     {
       "basename": "E. MEX Count (1)",
       "path": "E. MEX Count (1).md"
-    },
-    {
-      "basename": "E. MEX Count",
-      "path": "E. MEX Count.md"
     },
     {
       "basename": "E. Arithmetics Competition (2)",
@@ -77,24 +101,12 @@
       "path": "DailyNotes/2025-08-19.md"
     },
     {
-      "basename": "Check BST",
-      "path": "BST/Qs/Check BST.md"
-    },
-    {
       "basename": "ZigZag tree",
       "path": "BinaryTree/Qs/ZigZag tree.md"
     },
     {
       "basename": "Level Order Traversal (Newline) Technique",
       "path": "BinaryTree/Level Order Traversal (Newline) Technique.md"
-    },
-    {
-      "basename": "Binary Tree Multi Data Return Technique",
-      "path": "BinaryTree/Binary Tree Multi Data Return Technique.md"
-    },
-    {
-      "basename": "Construct Binary Tree from In-Order Array",
-      "path": "BinaryTree/Qs/Construct Binary Tree from In-Order Array.md"
     },
     {
       "basename": "Construct Tree from postorder & inorder",

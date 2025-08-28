@@ -10,6 +10,11 @@ kanban-plugin: board
 	
 	- Both Unoptimized & optimized sols
 	 - Make a theory note of this
+- [ ] **BST Basic Property** 
+	- bottom up property
+	- top down property
+	
+	#BST
 - [ ] **Merge Sort Algo & its TCA**
 	- to be done #sorting
 - [ ] **Quick Sort Algo**
@@ -35,6 +40,10 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Insertion & Deletion in BST]]
+	
+	- [x] Solution implementation
+	- [ ] Theory Making
 - [ ] [[ZigZag tree]]
 	
 	- [x] Approach 1 - 2 stacks zigzag traversal

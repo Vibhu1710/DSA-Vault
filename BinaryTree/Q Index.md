@@ -3,3 +3,4 @@
 - [[ZigZag tree]]
 - [[Level order traversal (newline based)]]
 - [[Diameter of a BT]]
+- [[LCA of Binary Tree]]
