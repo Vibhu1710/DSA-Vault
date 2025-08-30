@@ -5,6 +5,26 @@
       "path": "STL/priority_queue.md"
     },
     {
+      "basename": "2025-08-30",
+      "path": "DailyNotes/2025-08-30.md"
+    },
+    {
+      "basename": "2025-08-29",
+      "path": "DailyNotes/2025-08-29.md"
+    },
+    {
+      "basename": "max_element()",
+      "path": "STL/max_element().md"
+    },
+    {
+      "basename": "STL.excalidraw",
+      "path": "STL/STL.excalidraw.md"
+    },
+    {
+      "basename": "BST.excalidraw",
+      "path": "BST/BST.excalidraw.md"
+    },
+    {
       "basename": "Check BST",
       "path": "BST/Qs/Check BST.md"
     },
@@ -13,24 +33,12 @@
       "path": "Kanbans/TODO Ques.md"
     },
     {
-      "basename": "STL.excalidraw",
-      "path": "STL/STL.excalidraw.md"
-    },
-    {
-      "basename": "max_element()",
-      "path": "STL/max_element().md"
-    },
-    {
       "basename": "Heap Sort",
       "path": "PriorityQueue/Heap Sort.md"
     },
     {
       "basename": "Implement Max Heap",
       "path": "PriorityQueue/Qs/Implement Max Heap.md"
-    },
-    {
-      "basename": "BST.excalidraw",
-      "path": "BST/BST.excalidraw.md"
     },
     {
       "basename": "PriorityQueue.excalidraw",
@@ -191,14 +199,6 @@
     {
       "basename": "Binary Tree Basic Theory",
       "path": "BinaryTree/Binary Tree Basic Theory.md"
-    },
-    {
-      "basename": "Graph.excalidraw",
-      "path": "Graph/Graph.excalidraw.md"
-    },
-    {
-      "basename": "Q Index",
-      "path": "Graph/Q Index.md"
     }
   ],
   "omittedPaths": [],

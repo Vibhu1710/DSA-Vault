@@ -1,11 +1,12 @@
 
 
+<br/>
 
-
-<iframe src="file:///Users/vibhubhanot/Documents/DSA/priorityQueue/base/betterCustomComparator.cpp" width="600" height="400"></iframe>
-
+#### Normal & Custom Comparator
 
 
 ```embed-cpp
-PATH: "vscode://file/Users/vibhubhanot/Documents/DSA/priorityQueue/base/betterCustomComparator.cpp"
+PATH: "vault://Assets/Code/priorityQueue/base/betterCustomComparator.cpp"
+TITLE: "priorityQueue/base/betterCustomComparator.cpp"
+LINES: "1-200"
 ```

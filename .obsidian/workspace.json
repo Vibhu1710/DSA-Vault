@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7446c7b918225c65",
+        "id": "e8dbc6c8b2a10bef",
         "type": "tabs",
         "children": [
           {
-            "id": "d926a1bdf3fcebef",
+            "id": "3fe9b9c22a73206a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -251,21 +251,27 @@
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "obsidian42-text-transporter:Text Transporter": false,
-      "periodic-notes:Open today": false,
-      "code-files:Create Code File": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "d926a1bdf3fcebef",
+  "active": "3fe9b9c22a73206a",
   "lastOpenFiles": [
     "STL/priority_queue.md",
+    "DailyNotes/2025-08-30.md",
+    "DailyNotes/2025-08-29.md",
+    "Assets/Code/priorityQueue/base/betterCustomComparator.cpp",
+    "Assets/Code/priorityQueue/base",
+    "Assets/Code/priorityQueue",
+    "Assets/Code",
+    "STL/max_element().md",
+    "STL/STL.excalidraw.md",
+    "BST/BST.excalidraw.md",
+    "Assets/betterCustomComparator.cpp",
     "My Code File.cpp",
     "BST/Qs/Check BST.md",
     "Kanbans/TODO Ques.md",
-    "STL/STL.excalidraw.md",
-    "STL/max_element().md",
     "PriorityQueue/Heap Sort.md",
     "PriorityQueue/Qs/Implement Max Heap.md",
-    "BST/BST.excalidraw.md",
     "PriorityQueue/PriorityQueue.excalidraw.md",
     "DailyNotes/2025-08-26.md",
     "DailyNotes/2025-08-28.md",
@@ -285,13 +291,7 @@
     "STL/Qs",
     "STL/Q Index.md",
     "STL",
-    "PriorityQueue/Qs",
     "PriorityQueue/Q Index.md",
-    "PriorityQueue",
-    "Assets/BSTCNNotes.pdf",
-    "BinaryTree/Qs/Construct Binary Tree from Level-Order Array.md",
-    "Cpp/Qs",
-    "Cpp",
     "Untitled.canvas",
     "BinaryTree/BT Canvas.canvas",
     "Untitled 1.canvas",
