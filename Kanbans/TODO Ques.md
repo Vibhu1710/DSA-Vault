@@ -10,13 +10,24 @@ kanban-plugin: board
 	
 	- Both Unoptimized & optimized sols
 	 - Make a theory note of this
-- [ ] **BST Basic Property** 
-	- bottom up property
-	- top down property
+- [ ] **Balanced BSTs Study**
+	- AVL Trees
+	- Red Black Trees
+	
+	#BST
+- [ ] **BST QueLog**
+	2 JFR questions to solve
 	
 	#BST
 - [ ] **Merge Sort Algo & its TCA**
 	- to be done #sorting
+- [ ] [[Pair sum in a BST]]
+	- special with using less memory space
+	- clever implementation, will try later
+- [ ] **Priority Queues QueLog** (later)
+	- [[K smallest elements]]
+	- [[Merge K sorted arrays]]
+	- [[Running Median]] <-
 - [ ] **Quick Sort Algo**
 - [ ] **Operator Overloading**
 	
@@ -34,12 +45,29 @@ kanban-plugin: board
 	- [ ] rectify codeforces scraper
 	- [ ] improve codechef scraper
 	- [ ] pdf clipping mechanism research
+	- [ ] Git ignore issue
+	- [ ] Stars rating to que notes
+	- [ ] feature - 1 queNote linked to >1 Q indices
+	- [ ] fix on issues happening when I copy-paste code from vs code into note?
 	<br/>
 	- [ ] VS Code Snippets (templates) research
+	- [ ] VS Code Git automatic push config
+	- [ ] Daily Notes Dots Config
+	- [ ] Tab switching problems in obsidian
 
 
 ## Active
 
+- [ ] **BST Basic Property** (theory making)
+	- bottom up property
+	- top down property
+	- excalidraw?
+	
+	#BST
+- [ ] **Heap** (theory making)
+	- Link note PDF
+	
+	#PriorityQueue
 - [ ] [[Insertion & Deletion in BST]]
 	
 	- [x] Solution implementation
@@ -49,11 +77,12 @@ kanban-plugin: board
 	- [x] Approach 1 - 2 stacks zigzag traversal
 	- [ ] Approach 2 - 1 stack, normal traversal
 	- [ ] Excalidraw update?
-- [ ] [[Construct Binary Tree from In-Order Array]]
+- [ ] [[Construct Binary Tree from Level-Order Array]]
 	
 	- [x] App. 1, Implement solution
 	- [ ] Try CBT Approach, if possible
 	- [ ] Properly test approach 1
+	- [ ] Check of CN does it in their main() code
 - [ ] [[Construct Tree from postorder & inorder]]
 	
 	- [x] Implement code solution

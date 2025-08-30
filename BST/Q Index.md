@@ -1,4 +1,5 @@
 - [[Elements Between K1 and K2]]
 - [[Check BST]]
+- [[Pair sum in a BST]]
 - [[Insertion & Deletion in BST]]
 - [[LCA of BST]]

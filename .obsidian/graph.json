@@ -15,6 +15,20 @@
       }
     },
     {
+      "query": "path:Cpp  ",
+      "color": {
+        "a": 1,
+        "rgb": 14492194
+      }
+    },
+    {
+      "query": "path:STL  ",
+      "color": {
+        "a": 1,
+        "rgb": 9975093
+      }
+    },
+    {
       "query": "path:BinaryTree  ",
       "color": {
         "a": 1,
@@ -36,17 +50,31 @@
       }
     },
     {
-      "query": "path:Graph",
-      "color": {
-        "a": 1,
-        "rgb": 9975093
-      }
-    },
-    {
       "query": "path:Strings  ",
       "color": {
         "a": 1,
         "rgb": 16764774
+      }
+    },
+    {
+      "query": "path:PriorityQueue  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path: OOPs",
+      "color": {
+        "a": 1,
+        "rgb": 15023789
+      }
+    },
+    {
+      "query": "path: Graph  ",
+      "color": {
+        "a": 1,
+        "rgb": 231835
       }
     }
   ],
@@ -60,6 +88,6 @@
   "repelStrength": 19.3375651041667,
   "linkStrength": 1,
   "linkDistance": 77,
-  "scale": 0.9169790412098934,
-  "close": true
+  "scale": 0.6731977983619584,
+  "close": false
 }

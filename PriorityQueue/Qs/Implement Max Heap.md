@@ -1,22 +1,19 @@
 ---
-solution_file: trees/binaryTree/createBinaryTreeLevelOrder.cpp
-tags: [BinaryTree]
-type: 
+solution_file: priorityQueue/implementHeap.cpp
+tags:
+  - PriorityQueue
+type:
 solved: true
-platform: 
-date_created: Mon, 18 Aug
+platform:
+date_created: Fri, 29 Aug
 ---
-
-##### Question Source (Not Real)
-Inspired from -
-[Link](https://classroom.codingninjas.com/app/classroom/me/13774/content/250061/offering/3394163/problem/1568)
 
 ---
 
 ##### Solved Example  
 ```dataviewjs
 const linkPrefix = "vscode://file/Users/vibhubhanot/Documents/DSA/";
-let path = dv.current()?.file?.path;
+let path = dv.current().file.path;
 let meta = app.metadataCache.getCache(path);
 const frontmatter = meta.frontmatter;
 
@@ -50,25 +47,4 @@ if (frontmatter?.solution_file) {
 ---
 
 
-#### Problem Statement
-
-Given an In-order array, create a Binary Tree from it
-
-**Input:**
-[2, 3, 8, -1, 5, 9, -1, -1, -1, -1, 10]
-
-**Output:**
-
-you know (a tree root node pointer)
-
-
----
-
-
-> [!NOTE] After Thoughts
-> - This turned out to be a more implementation based problem
-> - Implemented BT class
-> - The main logic's trickiest part was the looping condn.
-> - Also, found out there is no clear() func. in a queue/stack!
-
-
+Basic Heap Insertion, **Deletion**

@@ -1,6 +1,7 @@
-- [[Construct Binary Tree from In-Order Array]]
+- [[Construct Binary Tree from Level-Order Array]]
 - [[Construct Tree from postorder & inorder]]
 - [[ZigZag tree]]
 - [[Level order traversal (newline based)]]
 - [[Diameter of a BT]]
 - [[LCA of Binary Tree]]
+- [[Print nodes at distance k from node]]

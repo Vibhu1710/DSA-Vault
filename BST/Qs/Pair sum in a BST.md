@@ -1,7 +1,8 @@
 ---
-solution_file: 
-tags: []
-type: 
+solution_file:
+tags:
+  - BST
+type: Special
 solved: false
 platform: CodingNinjas
 date_created: Thu, 21 Aug

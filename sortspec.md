@@ -14,10 +14,13 @@ sorting-spec: |
     DailyNotes
     ---
     Cpp
+    STL
     ---
     Trees
     BinaryTree
     BST
+    ---
+    PriorityQueue
     ---
     DP
     ---
