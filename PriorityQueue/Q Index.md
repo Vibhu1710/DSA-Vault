@@ -1,1 +1,4 @@
 - [[Implement Max Heap]]
+- [[K smallest elements]]
+- [[Merge K sorted arrays]]
+- [[Running Median]]

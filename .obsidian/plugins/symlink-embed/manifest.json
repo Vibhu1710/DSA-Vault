@@ -1,0 +1,9 @@
+{
+    "id": "symlink-embed",
+    "name": "Symlink & Embed Code",
+    "version": "0.0.1",
+    "minAppVersion": "1.14.0",
+    "description": "Create symlink inside vault Assets/ and insert an Embed Code File block at cursor.",
+    "author": "Vibhu1710",
+    "isDesktopOnly": true
+  }

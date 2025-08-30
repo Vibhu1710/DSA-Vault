@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "priority_queue",
+      "path": "STL/priority_queue.md"
+    },
+    {
+      "basename": "Check BST",
+      "path": "BST/Qs/Check BST.md"
+    },
+    {
       "basename": "TODO Ques",
       "path": "Kanbans/TODO Ques.md"
     },
@@ -105,10 +113,6 @@
       "path": "BinaryTree/Qs/LCA of Binary Tree.md"
     },
     {
-      "basename": "Check BST",
-      "path": "BST/Qs/Check BST.md"
-    },
-    {
       "basename": "E. MEX Count",
       "path": "E. MEX Count.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Q Index",
       "path": "Graph/Q Index.md"
-    },
-    {
-      "basename": "Q Index",
-      "path": "Trees/Q Index.md"
     }
   ],
   "omittedPaths": [],

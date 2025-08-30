@@ -4,27 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "36047271f2ac2960",
+        "id": "7446c7b918225c65",
         "type": "tabs",
         "children": [
           {
-            "id": "e32002dba70c6519",
+            "id": "d926a1bdf3fcebef",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/TODO Ques.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "STL/priority_queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO Ques"
+              "icon": "lucide-file",
+              "title": "priority_queue"
             }
           }
         ]
@@ -119,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kanbans/TODO Ques.md",
+                "file": "STL/priority_queue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -147,7 +142,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TODO Ques"
+              "title": "Graph of priority_queue"
             }
           },
           {
@@ -256,14 +251,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "obsidian42-text-transporter:Text Transporter": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "code-files:Create Code File": false
     }
   },
-  "active": "e32002dba70c6519",
+  "active": "d926a1bdf3fcebef",
   "lastOpenFiles": [
+    "STL/priority_queue.md",
+    "My Code File.cpp",
+    "BST/Qs/Check BST.md",
+    "Kanbans/TODO Ques.md",
     "STL/STL.excalidraw.md",
     "STL/max_element().md",
-    "Kanbans/TODO Ques.md",
     "PriorityQueue/Heap Sort.md",
     "PriorityQueue/Qs/Implement Max Heap.md",
     "BST/BST.excalidraw.md",
@@ -291,12 +290,8 @@
     "PriorityQueue",
     "Assets/BSTCNNotes.pdf",
     "BinaryTree/Qs/Construct Binary Tree from Level-Order Array.md",
-    "BinaryTree/Binary Tree Multi Data Return Technique.md",
-    "BinaryTree/BinaryTree.excalidraw.md",
-    "DailyNotes/2025-08-27.md",
     "Cpp/Qs",
     "Cpp",
-    "DailyNotes",
     "Untitled.canvas",
     "BinaryTree/BT Canvas.canvas",
     "Untitled 1.canvas",
