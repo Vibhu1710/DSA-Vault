@@ -1,4 +1,7 @@
 
+#### Basics
+
+TODO.. some theory pdf here?
 
 <br/>
 

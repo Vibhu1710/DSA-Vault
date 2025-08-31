@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Check BST",
+      "path": "BST/Qs/Check BST.md"
+    },
+    {
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
+    },
+    {
       "basename": "priority_queue",
       "path": "STL/priority_queue.md"
+    },
+    {
+      "basename": "Elements Between K1 and K2",
+      "path": "BST/Qs/Elements Between K1 and K2.md"
     },
     {
       "basename": "2025-08-30",
@@ -23,14 +35,6 @@
     {
       "basename": "BST.excalidraw",
       "path": "BST/BST.excalidraw.md"
-    },
-    {
-      "basename": "Check BST",
-      "path": "BST/Qs/Check BST.md"
-    },
-    {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
     },
     {
       "basename": "Heap Sort",
@@ -187,10 +191,6 @@
     {
       "basename": "Level order traversal (newline based)",
       "path": "BinaryTree/Qs/Level order traversal (newline based).md"
-    },
-    {
-      "basename": "Elements Between K1 and K2",
-      "path": "BST/Qs/Elements Between K1 and K2.md"
     },
     {
       "basename": "binaryTreesCNNotes",

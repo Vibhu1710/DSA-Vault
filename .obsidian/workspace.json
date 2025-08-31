@@ -8,18 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3fe9b9c22a73206a",
+            "id": "af0d8e89df3fee97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STL/priority_queue.md",
+                "file": "BST/Qs/Check BST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "priority_queue"
+              "title": "Check BST"
+            }
+          },
+          {
+            "id": "41a606f28a88038b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbans/TODO Ques.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO Ques"
+            }
+          },
+          {
+            "id": "0004229187b3cc9d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -114,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STL/priority_queue.md",
+                "file": "BST/Qs/Check BST.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -142,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of priority_queue"
+              "title": "Graph of Check BST"
             }
           },
           {
@@ -254,9 +284,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3fe9b9c22a73206a",
+  "active": "af0d8e89df3fee97",
   "lastOpenFiles": [
+    "Kanbans/TODO Ques.md",
+    "BST/Qs/Check BST.md",
     "STL/priority_queue.md",
+    "BST/Qs/Elements Between K1 and K2.md",
     "DailyNotes/2025-08-30.md",
     "DailyNotes/2025-08-29.md",
     "Assets/Code/priorityQueue/base/betterCustomComparator.cpp",
@@ -268,8 +301,6 @@
     "BST/BST.excalidraw.md",
     "Assets/betterCustomComparator.cpp",
     "My Code File.cpp",
-    "BST/Qs/Check BST.md",
-    "Kanbans/TODO Ques.md",
     "PriorityQueue/Heap Sort.md",
     "PriorityQueue/Qs/Implement Max Heap.md",
     "PriorityQueue/PriorityQueue.excalidraw.md",
@@ -291,7 +322,6 @@
     "STL/Qs",
     "STL/Q Index.md",
     "STL",
-    "PriorityQueue/Q Index.md",
     "Untitled.canvas",
     "BinaryTree/BT Canvas.canvas",
     "Untitled 1.canvas",
