@@ -1,5 +1,8 @@
 {
   "cssTheme": "",
   "theme": "system",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "pdf"
+  ]
 }

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BSTCNNotes",
+      "path": "Assets/BSTCNNotes.pdf"
+    },
+    {
       "basename": "priority_queue",
       "path": "STL/priority_queue.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "Insertion & Deletion in BST",
       "path": "BST/Qs/Insertion & Deletion in BST.md"
-    },
-    {
-      "basename": "BSTCNNotes",
-      "path": "Assets/BSTCNNotes.pdf"
     },
     {
       "basename": "Construct Binary Tree from Level-Order Array",

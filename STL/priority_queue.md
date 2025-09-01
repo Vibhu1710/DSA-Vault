@@ -1,10 +1,13 @@
 
+[[BSTCNNotes.pdf#page=1|BSTCNNotes, p.1]]
+
+
 #### Basics
 
 ```pdf
-url: [[assets/yourfile.pdf]]
+url: [[BSTCNNotes.pdf]]
 range: [3, 5]
-fit: true
+scale: 2.0
 ```
 
 <br/>

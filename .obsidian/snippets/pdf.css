@@ -1,0 +1,6 @@
+.popover.hover-popover.pdf-embed,
+.popover.hover-popover {
+    display: none !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+}
