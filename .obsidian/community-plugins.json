@@ -18,5 +18,6 @@
   "auto-tagger",
   "auto-folder-tag",
   "embed-code-file",
-  "symlink-embed"
+  "symlink-embed",
+  "better-export-pdf"
 ]

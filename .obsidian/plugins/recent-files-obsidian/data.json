@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "priority_queue",
+      "path": "STL/priority_queue.md"
+    },
+    {
       "basename": "Check BST",
       "path": "BST/Qs/Check BST.md"
     },
     {
       "basename": "TODO Ques",
       "path": "Kanbans/TODO Ques.md"
-    },
-    {
-      "basename": "priority_queue",
-      "path": "STL/priority_queue.md"
     },
     {
       "basename": "Elements Between K1 and K2",

@@ -26,20 +26,15 @@
             "id": "41a606f28a88038b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/TODO Ques.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "STL/priority_queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO Ques"
+              "icon": "lucide-file",
+              "title": "priority_queue"
             }
           },
           {
@@ -52,7 +47,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BST/Qs/Check BST.md",
+                "file": "STL/priority_queue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -172,7 +168,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Check BST"
+              "title": "Graph of priority_queue"
             }
           },
           {
@@ -284,11 +280,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "af0d8e89df3fee97",
+  "active": "41a606f28a88038b",
   "lastOpenFiles": [
-    "Kanbans/TODO Ques.md",
     "BST/Qs/Check BST.md",
     "STL/priority_queue.md",
+    "Kanbans/TODO Ques.md",
     "BST/Qs/Elements Between K1 and K2.md",
     "DailyNotes/2025-08-30.md",
     "DailyNotes/2025-08-29.md",

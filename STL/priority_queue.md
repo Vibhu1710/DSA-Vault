@@ -1,7 +1,11 @@
 
 #### Basics
 
-TODO.. some theory pdf here?
+```pdf
+url: [[assets/yourfile.pdf]]
+range: [3, 5]
+fit: true
+```
 
 <br/>
 
