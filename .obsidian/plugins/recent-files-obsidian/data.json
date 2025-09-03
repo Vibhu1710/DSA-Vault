@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "BSTCNNotes",
-      "path": "Assets/BSTCNNotes.pdf"
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
+    },
+    {
+      "basename": "STL.excalidraw",
+      "path": "STL/STL.excalidraw.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "2025-09-02",
+      "path": "DailyNotes/2025-09-02.md"
+    },
+    {
+      "basename": "max_element()",
+      "path": "STL/max_element().md"
+    },
+    {
+      "basename": "BST.excalidraw",
+      "path": "BST/BST.excalidraw.md"
     },
     {
       "basename": "priority_queue",
       "path": "STL/priority_queue.md"
     },
     {
-      "basename": "Check BST",
-      "path": "BST/Qs/Check BST.md"
-    },
-    {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
-    },
-    {
-      "basename": "Elements Between K1 and K2",
-      "path": "BST/Qs/Elements Between K1 and K2.md"
+      "basename": "2025-09-01",
+      "path": "DailyNotes/2025-09-01.md"
     },
     {
       "basename": "2025-08-30",
@@ -29,16 +41,68 @@
       "path": "DailyNotes/2025-08-29.md"
     },
     {
-      "basename": "max_element()",
-      "path": "STL/max_element().md"
+      "basename": "2025-08-28",
+      "path": "DailyNotes/2025-08-28.md"
     },
     {
-      "basename": "STL.excalidraw",
-      "path": "STL/STL.excalidraw.md"
+      "basename": "2025-08-27",
+      "path": "DailyNotes/2025-08-27.md"
     },
     {
-      "basename": "BST.excalidraw",
-      "path": "BST/BST.excalidraw.md"
+      "basename": "2025-08-26",
+      "path": "DailyNotes/2025-08-26.md"
+    },
+    {
+      "basename": "2025-08-20",
+      "path": "DailyNotes/2025-08-20.md"
+    },
+    {
+      "basename": "2025-08-19",
+      "path": "DailyNotes/2025-08-19.md"
+    },
+    {
+      "basename": "2025-08-18",
+      "path": "DailyNotes/2025-08-18.md"
+    },
+    {
+      "basename": "2025-08-21",
+      "path": "DailyNotes/2025-08-21.md"
+    },
+    {
+      "basename": "dbms indexing notes",
+      "path": "Assets/dbms indexing notes.pdf"
+    },
+    {
+      "basename": "Drawing 2025-09-01 19.14.43.excalidraw",
+      "path": "Excalidraw/Drawing 2025-09-01 19.14.43.excalidraw.md"
+    },
+    {
+      "basename": "dbms indexing notes 2-5.excalidraw",
+      "path": "Excalidraw/dbms indexing notes 2-5.excalidraw.md"
+    },
+    {
+      "basename": "dbms indexing notes 2-3 (1).excalidraw",
+      "path": "Excalidraw/dbms indexing notes 2-3 (1).excalidraw.md"
+    },
+    {
+      "basename": "dbms indexing notes p2-3.excalidraw",
+      "path": "Excalidraw/dbms indexing notes p2-3.excalidraw.md"
+    },
+    {
+      "basename": "Embedded PDF Template",
+      "path": "Templates/Embedded PDF Template.md"
+    },
+    {
+      "basename": "BSTCNNotes",
+      "path": "Assets/BSTCNNotes.pdf"
+    },
+    {
+      "basename": "Check BST",
+      "path": "BST/Qs/Check BST.md"
+    },
+    {
+      "basename": "Elements Between K1 and K2",
+      "path": "BST/Qs/Elements Between K1 and K2.md"
     },
     {
       "basename": "Heap Sort",
@@ -51,14 +115,6 @@
     {
       "basename": "PriorityQueue.excalidraw",
       "path": "PriorityQueue/PriorityQueue.excalidraw.md"
-    },
-    {
-      "basename": "2025-08-26",
-      "path": "DailyNotes/2025-08-26.md"
-    },
-    {
-      "basename": "2025-08-28",
-      "path": "DailyNotes/2025-08-28.md"
     },
     {
       "basename": "Deletion in BST Theory",
@@ -113,10 +169,6 @@
       "path": "BinaryTree/BinaryTree.excalidraw.md"
     },
     {
-      "basename": "2025-08-27",
-      "path": "DailyNotes/2025-08-27.md"
-    },
-    {
       "basename": "LCA of BST",
       "path": "BST/Qs/LCA of BST.md"
     },
@@ -137,14 +189,6 @@
       "path": "Cpp/Cpp.excalidraw.md"
     },
     {
-      "basename": "2025-08-21",
-      "path": "DailyNotes/2025-08-21.md"
-    },
-    {
-      "basename": "2025-08-20",
-      "path": "DailyNotes/2025-08-20.md"
-    },
-    {
       "basename": "E. MEX Count (1)",
       "path": "E. MEX Count (1).md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "E. Arithmetics Competition (1)",
       "path": "E. Arithmetics Competition (1).md"
-    },
-    {
-      "basename": "E. Arithmetics Competition",
-      "path": "E. Arithmetics Competition.md"
-    },
-    {
-      "basename": "Mean Maximization",
-      "path": "Mean Maximization.md"
-    },
-    {
-      "basename": "2025-08-18",
-      "path": "DailyNotes/2025-08-18.md"
-    },
-    {
-      "basename": "2025-08-19",
-      "path": "DailyNotes/2025-08-19.md"
-    },
-    {
-      "basename": "ZigZag tree",
-      "path": "BinaryTree/Qs/ZigZag tree.md"
-    },
-    {
-      "basename": "Level Order Traversal (Newline) Technique",
-      "path": "BinaryTree/Level Order Traversal (Newline) Technique.md"
-    },
-    {
-      "basename": "Construct Tree from postorder & inorder",
-      "path": "BinaryTree/Qs/Construct Tree from postorder & inorder.md"
-    },
-    {
-      "basename": "Diameter of a BT",
-      "path": "BinaryTree/Qs/Diameter of a BT.md"
-    },
-    {
-      "basename": "Level order traversal (newline based)",
-      "path": "BinaryTree/Qs/Level order traversal (newline based).md"
-    },
-    {
-      "basename": "binaryTreesCNNotes",
-      "path": "Assets/binaryTreesCNNotes.pdf"
-    },
-    {
-      "basename": "Binary Tree Basic Theory",
-      "path": "BinaryTree/Binary Tree Basic Theory.md"
     }
   ],
   "omittedPaths": [],

@@ -4,6 +4,7 @@
   "promptDelete": true,
   "userIgnoreFilters": [
     "Templates/Scripts/",
-    "node_modules/"
+    "node_modules/",
+    "Excalidraw/"
   ]
 }

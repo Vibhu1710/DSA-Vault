@@ -59,6 +59,26 @@
           }
         ]
       }
+    },
+    {
+      "id": "27935c33-8472-4c79-a290-b4e68f79032b",
+      "name": "Clip PDF Excalidraw",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Clip PDF Excalidraw",
+        "id": "9adc82f6-7c5e-4edb-b358-3860b8d076f0",
+        "commands": [
+          {
+            "name": "clipPdfExcalidraw",
+            "type": "UserScript",
+            "id": "827d466d-d039-4f12-b065-d9f912112048",
+            "path": "Templates/Scripts/quick_add_scripts/clipPdfExcalidraw.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

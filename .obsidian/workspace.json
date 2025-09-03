@@ -8,7 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af0d8e89df3fee97",
+            "id": "8089087cda80bd27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STL/max_element().md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "max_element()"
+            }
+          },
+          {
+            "id": "41484af402823110",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,33 +38,69 @@
             }
           },
           {
-            "id": "a947362e74138e12",
+            "id": "13d2ee8268ea1cfb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Assets/BSTCNNotes.pdf",
-                "page": 2,
-                "left": -10,
-                "top": 15,
-                "zoom": 1.428921568627451
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "BSTCNNotes"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
-            "id": "0004229187b3cc9d",
+            "id": "4665d884f22e0442",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "excalidraw",
+              "state": {
+                "file": "STL/STL.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "STL.excalidraw"
+            }
+          },
+          {
+            "id": "d429b4aad43ab351",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanbans/TODO Ques.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "TODO Ques"
+            }
+          },
+          {
+            "id": "48fc8d5e108584ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Embedded PDF Template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Embedded PDF Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -124,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 379.5
   },
   "right": {
     "id": "a0fcdfdde52f0c58",
@@ -141,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STL/priority_queue.md",
+                "file": "Kanbans/TODO Ques.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,7 +220,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of priority_queue"
+              "title": "Graph of TODO Ques"
             }
           },
           {
@@ -256,8 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,53 +321,56 @@
       "custom-sort:Toggle custom sorting": false,
       "obsidian-kanban:Create new board": true,
       "templater-obsidian:Templater": true,
-      "obsidian-excalidraw-plugin:New drawing": true,
       "obsidian-git:Open Git source control": false,
       "workspaces:Manage workspace layouts": false,
       "pdf-plus:PDF++: Toggle auto-copy": true,
       "pdf-plus:PDF++: Toggle auto-focus": true,
       "pdf-plus:PDF++: Toggle auto-paste": true,
       "obsidian42-text-transporter:Text Transporter": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a947362e74138e12",
+  "active": "d429b4aad43ab351",
   "lastOpenFiles": [
-    "STL/priority_queue.md",
-    "Assets/BSTCNNotes.pdf",
-    "BST/Qs/Check BST.md",
+    "STL/STL.excalidraw.md",
     "Kanbans/TODO Ques.md",
-    "BST/Qs/Elements Between K1 and K2.md",
+    "Untitled.md",
+    "DailyNotes/2025-09-02.md",
+    "Screenshot 2025-09-02 at 4.59.59 PM.png",
+    "Assets/Screenshot 2025-09-02 at 4.48.31 PM.png",
+    "STL/max_element().md",
+    "BST/BST.excalidraw.md",
+    "STL/priority_queue.md",
+    "DailyNotes/2025-09-01.md",
     "DailyNotes/2025-08-30.md",
     "DailyNotes/2025-08-29.md",
+    "DailyNotes/2025-08-28.md",
+    "DailyNotes/2025-08-27.md",
+    "DailyNotes/2025-08-26.md",
+    "DailyNotes/2025-08-20.md",
+    "DailyNotes/2025-08-19.md",
+    "DailyNotes/2025-08-18.md",
+    "DailyNotes/2025-08-21.md",
+    "Assets/dbms indexing notes.pdf",
+    "Excalidraw/Drawing 2025-09-01 19.14.43.excalidraw.md",
+    "Excalidraw/dbms indexing notes 2-5.excalidraw.md",
+    "Excalidraw/dbms indexing notes 2-3 (1).excalidraw.md",
+    "Excalidraw/dbms indexing notes p2-3.excalidraw.md",
+    "Excalidraw/dbms indexing notes 2-3.excalidraw",
+    "Untitled.base",
+    "Templates/Embedded PDF Template.md",
+    "Templates/Scripts/quick_add_scripts/clipPdfExcalidraw.js",
+    "Excalidraw/Drawing 2025-09-01 14.40.49.excalidraw.restored.md",
+    "Excalidraw/Drawing 2025-09-01 15.23.15.excalidraw.md",
+    "Assets/BSTCNNotes.pdf",
+    "Excalidraw/Drawing 2025-09-01 14.40.49.excalidraw.md",
+    "BST/Qs/Check BST.md",
     "Assets/Code/priorityQueue/base/betterCustomComparator.cpp",
     "Assets/Code/priorityQueue/base",
     "Assets/Code/priorityQueue",
     "Assets/Code",
-    "STL/max_element().md",
-    "STL/STL.excalidraw.md",
-    "BST/BST.excalidraw.md",
     "Assets/betterCustomComparator.cpp",
-    "My Code File.cpp",
-    "PriorityQueue/Heap Sort.md",
-    "PriorityQueue/Qs/Implement Max Heap.md",
-    "PriorityQueue/PriorityQueue.excalidraw.md",
-    "DailyNotes/2025-08-26.md",
-    "DailyNotes/2025-08-28.md",
-    "BST/Deletion in BST Theory.md",
-    "BST/Qs/Pair sum in a BST.md",
-    "PriorityQueue/Qs/Running Median.md",
-    "PriorityQueue/Qs/Merge K sorted arrays.md",
-    "PriorityQueue/Qs/K smallest elements.md",
-    "DP/DP.excalidraw.md",
-    "DP/Qs",
-    "DP/Q Index.md",
-    "DP",
-    "PriorityQueue/Heaps Theory - UpHeapify, DownHeapify.md",
-    "BinaryTree/Qs/Print nodes at distance k from node.md",
-    "sortspec.md",
-    "BST/Qs/Insertion & Deletion in BST.md",
-    "STL/Qs",
     "Untitled.canvas",
     "BinaryTree/BT Canvas.canvas",
     "Untitled 1.canvas",

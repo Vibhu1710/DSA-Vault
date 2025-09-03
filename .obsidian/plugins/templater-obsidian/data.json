@@ -24,7 +24,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    ""
+    "Templates/Embedded PDF Template.md"
   ],
   "startup_templates": [
     ""

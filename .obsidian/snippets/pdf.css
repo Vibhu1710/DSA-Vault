@@ -4,3 +4,8 @@
     visibility: hidden !important;
     opacity: 0 !important;
 }
+
+/* .block-language-pdf a {
+    pointer-events: none !important;
+    cursor: default !important;
+} */

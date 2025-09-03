@@ -43,14 +43,23 @@ kanban-plugin: board
 	 - [x] Graph view coloring
 - [ ] **This Sunday**
 	
+	- [x] workout plan improvements
+	- [ ] Grip strength research
+	- [ ] Typing technique
+	- [ ] Seat Research
 	- [ ] teeth related research
+	
+	**Code Management Work**
+	
 	- [ ] rectify codeforces scraper
 	- [ ] improve codechef scraper
-	- [ ] pdf clipping mechanism research
+	- [x] pdf clipping mechanism research
 	- [ ] Git ignore issue
 	- [ ] Stars rating to que notes
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [ ] fix on issues happening when I copy-paste code from vs code into note?
+	- [ ] Archived tasks in Kanban to be removed (as links)
+	- [ ] Dark theme code symlinks?
 	<br/>
 	- [ ] VS Code Snippets (templates) research
 	- [ ] VS Code Git automatic push config
