@@ -48,6 +48,8 @@ kanban-plugin: board
 	- [ ] Typing technique
 	- [ ] Seat Research
 	- [ ] teeth related research
+	- [ ] Eye research
+	- [ ] Facebook Content Discovery
 	
 	**Code Management Work**
 	
