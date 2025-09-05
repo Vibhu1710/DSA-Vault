@@ -5,32 +5,40 @@
       "path": "Kanbans/TODO Ques.md"
     },
     {
-      "basename": "STL.excalidraw",
-      "path": "STL/STL.excalidraw.md"
-    },
-    {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "2025-09-02",
-      "path": "DailyNotes/2025-09-02.md"
     },
     {
       "basename": "max_element()",
       "path": "STL/max_element().md"
     },
     {
-      "basename": "BST.excalidraw",
-      "path": "BST/BST.excalidraw.md"
-    },
-    {
       "basename": "priority_queue",
       "path": "STL/priority_queue.md"
     },
     {
+      "basename": "STL.excalidraw",
+      "path": "STL/STL.excalidraw.md"
+    },
+    {
+      "basename": "Embedded PDF Template",
+      "path": "Templates/Embedded PDF Template.md"
+    },
+    {
+      "basename": "2025-09-03",
+      "path": "DailyNotes/2025-09-03.md"
+    },
+    {
       "basename": "2025-09-01",
       "path": "DailyNotes/2025-09-01.md"
+    },
+    {
+      "basename": "2025-09-02",
+      "path": "DailyNotes/2025-09-02.md"
+    },
+    {
+      "basename": "BST.excalidraw",
+      "path": "BST/BST.excalidraw.md"
     },
     {
       "basename": "2025-08-30",
@@ -87,10 +95,6 @@
     {
       "basename": "dbms indexing notes p2-3.excalidraw",
       "path": "Excalidraw/dbms indexing notes p2-3.excalidraw.md"
-    },
-    {
-      "basename": "Embedded PDF Template",
-      "path": "Templates/Embedded PDF Template.md"
     },
     {
       "basename": "BSTCNNotes",
@@ -195,10 +199,6 @@
     {
       "basename": "E. Arithmetics Competition (2)",
       "path": "E. Arithmetics Competition (2).md"
-    },
-    {
-      "basename": "E. Arithmetics Competition (1)",
-      "path": "E. Arithmetics Competition (1).md"
     }
   ],
   "omittedPaths": [],

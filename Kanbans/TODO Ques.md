@@ -46,7 +46,7 @@ kanban-plugin: board
 	- [x] workout plan improvements
 	- [ ] Grip strength research
 	- [ ] Typing technique
-	- [ ] Seat Research
+	- [x] Seat Research
 	- [ ] teeth related research
 	- [ ] Eye research
 	- [ ] Facebook Content Discovery
@@ -55,6 +55,7 @@ kanban-plugin: board
 	
 	- [ ] rectify codeforces scraper
 	- [ ] improve codechef scraper
+	- [ ] Change routine alarms
 	- [x] pdf clipping mechanism research
 	- [ ] Git ignore issue
 	- [ ] Stars rating to que notes
