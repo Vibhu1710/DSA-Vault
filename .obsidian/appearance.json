@@ -3,6 +3,7 @@
   "theme": "system",
   "accentColor": "",
   "enabledCssSnippets": [
-    "pdf"
+    "pdf",
+    "dracula-prism-scoped"
   ]
 }

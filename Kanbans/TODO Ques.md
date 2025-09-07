@@ -48,7 +48,8 @@ kanban-plugin: board
 	- [ ] Typing technique
 	- [x] Seat Research
 	- [ ] teeth related research
-	- [ ] Eye research
+	- [x] Eye research
+	- [ ] Mummy ayurveda products buy
 	- [ ] Facebook Content Discovery
 	
 	**Code Management Work**
@@ -61,8 +62,7 @@ kanban-plugin: board
 	- [ ] Stars rating to que notes
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [ ] fix on issues happening when I copy-paste code from vs code into note?
-	- [ ] Archived tasks in Kanban to be removed (as links)
-	- [ ] Dark theme code symlinks?
+	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
 	<br/>
 	- [ ] VS Code Snippets (templates) research
 	- [ ] VS Code Git automatic push config

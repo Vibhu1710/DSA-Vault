@@ -23,23 +23,18 @@
             }
           },
           {
-            "id": "93bb2151ca9b3a34",
+            "id": "4e1d187e0a2b41f5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Kanbans/TODO Ques.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "STL/priority_queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-trello",
-              "title": "TODO Ques"
+              "icon": "lucide-file",
+              "title": "priority_queue"
             }
           },
           {
@@ -58,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Kanbans/TODO Ques.md",
+                "file": "STL/priority_queue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +173,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TODO Ques"
+              "title": "Graph of priority_queue"
             }
           },
           {
@@ -265,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,12 +285,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93bb2151ca9b3a34",
+  "active": "13d2ee8268ea1cfb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "STL/priority_queue.md",
     "Kanbans/TODO Ques.md",
     "STL/max_element().md",
-    "STL/priority_queue.md",
+    "Untitled.md",
     "STL/STL.excalidraw.md",
     "Templates/Embedded PDF Template.md",
     "DailyNotes/2025-09-03.md",
