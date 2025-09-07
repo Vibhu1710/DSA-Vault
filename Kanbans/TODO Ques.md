@@ -44,7 +44,7 @@ kanban-plugin: board
 - [ ] **This Sunday**
 	
 	- [x] workout plan improvements
-	- [ ] Grip strength research
+	- [x] Grip strength research
 	- [ ] Typing technique
 	- [x] Seat Research
 	- [ ] teeth related research
