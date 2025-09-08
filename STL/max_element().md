@@ -3,7 +3,7 @@
 <br/>
 
 ### Get Index of Element with Max Value (in given vector)
-
+****
 - *Scenario I encountered*
 > **Note that**, if all indices have the same value, the maximum index will be chosen (in this case, rightChildIndex)
 > 

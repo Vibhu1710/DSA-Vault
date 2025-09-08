@@ -1,24 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "map",
+      "path": "STL/map.md"
     },
     {
-      "basename": "priority_queue",
-      "path": "STL/priority_queue.md"
+      "basename": "Elements Between K1 and K2",
+      "path": "BST/Qs/Elements Between K1 and K2.md"
     },
     {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
+      "basename": "unordered_map",
+      "path": "STL/unordered_map.md"
+    },
+    {
+      "basename": "STL.excalidraw",
+      "path": "STL/STL.excalidraw.md"
     },
     {
       "basename": "max_element()",
       "path": "STL/max_element().md"
     },
     {
-      "basename": "STL.excalidraw",
-      "path": "STL/STL.excalidraw.md"
+      "basename": "vectors",
+      "path": "STL/vectors.md"
+    },
+    {
+      "basename": "unordered_set",
+      "path": "STL/unordered_set.md"
+    },
+    {
+      "basename": "set",
+      "path": "STL/set.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
+    },
+    {
+      "basename": "priority_queue",
+      "path": "STL/priority_queue.md"
     },
     {
       "basename": "Embedded PDF Template",
@@ -105,10 +129,6 @@
       "path": "BST/Qs/Check BST.md"
     },
     {
-      "basename": "Elements Between K1 and K2",
-      "path": "BST/Qs/Elements Between K1 and K2.md"
-    },
-    {
       "basename": "Heap Sort",
       "path": "PriorityQueue/Heap Sort.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "LCA of Binary Tree",
       "path": "BinaryTree/Qs/LCA of Binary Tree.md"
-    },
-    {
-      "basename": "E. MEX Count",
-      "path": "E. MEX Count.md"
-    },
-    {
-      "basename": "Vector Referencing",
-      "path": "Cpp/Vector Referencing.md"
-    },
-    {
-      "basename": "Cpp.excalidraw",
-      "path": "Cpp/Cpp.excalidraw.md"
-    },
-    {
-      "basename": "E. MEX Count (1)",
-      "path": "E. MEX Count (1).md"
-    },
-    {
-      "basename": "E. Arithmetics Competition (2)",
-      "path": "E. Arithmetics Competition (2).md"
     }
   ],
   "omittedPaths": [],

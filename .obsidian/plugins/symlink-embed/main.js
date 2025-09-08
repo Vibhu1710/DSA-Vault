@@ -127,6 +127,7 @@ module.exports = class SymlinkEmbedPlugin extends Plugin {
   buildEmbedBlock(baseRel, relativeInsideDSA) {
     const vaultPath = `${baseRel}/${relativeInsideDSA}`;
     return [
+      `[Open File in VS Code](vscode://file/Users/vibhubhanot/Documents/DSA/${relativeInsideDSA})`,
       "```embed-cpp",
       `PATH: "vault://${vaultPath}"`,
       `TITLE: "${relativeInsideDSA}"`,
