@@ -1,48 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "map",
-      "path": "STL/map.md"
-    },
-    {
-      "basename": "Elements Between K1 and K2",
-      "path": "BST/Qs/Elements Between K1 and K2.md"
-    },
-    {
-      "basename": "unordered_map",
-      "path": "STL/unordered_map.md"
+      "basename": "unordered_map<>",
+      "path": "STL/unordered_map<>.md"
     },
     {
       "basename": "STL.excalidraw",
       "path": "STL/STL.excalidraw.md"
     },
     {
+      "basename": "BinarySearchFuncs for vector<>",
+      "path": "STL/BinarySearchFuncs for vector<>.md"
+    },
+    {
+      "basename": "BinarySearchFuncs for map<>",
+      "path": "STL/BinarySearchFuncs for map<>.md"
+    },
+    {
+      "basename": "BinarySearchFuncs for set<>",
+      "path": "STL/BinarySearchFuncs for set<>.md"
+    },
+    {
+      "basename": "multimap<>",
+      "path": "STL/multimap<>.md"
+    },
+    {
       "basename": "max_element()",
       "path": "STL/max_element().md"
     },
     {
-      "basename": "vectors",
-      "path": "STL/vectors.md"
-    },
-    {
-      "basename": "unordered_set",
-      "path": "STL/unordered_set.md"
-    },
-    {
-      "basename": "set",
-      "path": "STL/set.md"
+      "basename": "multiset<>",
+      "path": "STL/multiset<>.md"
     },
     {
       "basename": "Untitled",
       "path": "Untitled.md"
     },
     {
-      "basename": "TODO Ques",
-      "path": "Kanbans/TODO Ques.md"
+      "basename": "map<>",
+      "path": "STL/map<>.md"
     },
     {
-      "basename": "priority_queue",
-      "path": "STL/priority_queue.md"
+      "basename": "priority_queue<>",
+      "path": "STL/priority_queue<>.md"
+    },
+    {
+      "basename": "set<>",
+      "path": "STL/set<>.md"
+    },
+    {
+      "basename": "unordered_set<>",
+      "path": "STL/unordered_set<>.md"
+    },
+    {
+      "basename": "string<>",
+      "path": "STL/string<>.md"
+    },
+    {
+      "basename": "vector<>",
+      "path": "STL/vector<>.md"
+    },
+    {
+      "basename": "Elements Between K1 and K2",
+      "path": "BST/Qs/Elements Between K1 and K2.md"
+    },
+    {
+      "basename": "TODO Ques",
+      "path": "Kanbans/TODO Ques.md"
     },
     {
       "basename": "Embedded PDF Template",
@@ -175,30 +199,6 @@
     {
       "basename": "sortspec",
       "path": "sortspec.md"
-    },
-    {
-      "basename": "Insertion & Deletion in BST",
-      "path": "BST/Qs/Insertion & Deletion in BST.md"
-    },
-    {
-      "basename": "Construct Binary Tree from Level-Order Array",
-      "path": "BinaryTree/Qs/Construct Binary Tree from Level-Order Array.md"
-    },
-    {
-      "basename": "Binary Tree Multi Data Return Technique",
-      "path": "BinaryTree/Binary Tree Multi Data Return Technique.md"
-    },
-    {
-      "basename": "BinaryTree.excalidraw",
-      "path": "BinaryTree/BinaryTree.excalidraw.md"
-    },
-    {
-      "basename": "LCA of BST",
-      "path": "BST/Qs/LCA of BST.md"
-    },
-    {
-      "basename": "LCA of Binary Tree",
-      "path": "BinaryTree/Qs/LCA of Binary Tree.md"
     }
   ],
   "omittedPaths": [],

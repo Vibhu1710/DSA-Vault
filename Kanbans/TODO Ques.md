@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] [[priority_queue]]
+- [ ] [[priority_queue<>]]
 	STL PDF Theory writing..
 - [ ] [[Diameter of a BT]]
 	
