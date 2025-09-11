@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "unordered_map<>",
-      "path": "STL/unordered_map<>.md"
+      "basename": "vector<>",
+      "path": "STL/vector<>.md"
+    },
+    {
+      "basename": "Implement Vector",
+      "path": "STL/Qs/Implement Vector.md"
+    },
+    {
+      "basename": "Elements Between K1 and K2",
+      "path": "BST/Qs/Elements Between K1 and K2.md"
+    },
+    {
+      "basename": "BinarySearchFuncs for set<>",
+      "path": "STL/BinarySearchFuncs for set<>.md"
     },
     {
       "basename": "STL.excalidraw",
       "path": "STL/STL.excalidraw.md"
+    },
+    {
+      "basename": "2D vector<>",
+      "path": "STL/2D vector<>.md"
+    },
+    {
+      "basename": "string<>",
+      "path": "STL/string<>.md"
+    },
+    {
+      "basename": "max_element()",
+      "path": "STL/max_element().md"
+    },
+    {
+      "basename": "unordered_set<>",
+      "path": "STL/unordered_set<>.md"
+    },
+    {
+      "basename": "set<>",
+      "path": "STL/set<>.md"
+    },
+    {
+      "basename": "map<>",
+      "path": "STL/map<>.md"
+    },
+    {
+      "basename": "unordered_map<>",
+      "path": "STL/unordered_map<>.md"
     },
     {
       "basename": "BinarySearchFuncs for vector<>",
@@ -17,16 +57,8 @@
       "path": "STL/BinarySearchFuncs for map<>.md"
     },
     {
-      "basename": "BinarySearchFuncs for set<>",
-      "path": "STL/BinarySearchFuncs for set<>.md"
-    },
-    {
       "basename": "multimap<>",
       "path": "STL/multimap<>.md"
-    },
-    {
-      "basename": "max_element()",
-      "path": "STL/max_element().md"
     },
     {
       "basename": "multiset<>",
@@ -37,32 +69,8 @@
       "path": "Untitled.md"
     },
     {
-      "basename": "map<>",
-      "path": "STL/map<>.md"
-    },
-    {
       "basename": "priority_queue<>",
       "path": "STL/priority_queue<>.md"
-    },
-    {
-      "basename": "set<>",
-      "path": "STL/set<>.md"
-    },
-    {
-      "basename": "unordered_set<>",
-      "path": "STL/unordered_set<>.md"
-    },
-    {
-      "basename": "string<>",
-      "path": "STL/string<>.md"
-    },
-    {
-      "basename": "vector<>",
-      "path": "STL/vector<>.md"
-    },
-    {
-      "basename": "Elements Between K1 and K2",
-      "path": "BST/Qs/Elements Between K1 and K2.md"
     },
     {
       "basename": "TODO Ques",
@@ -191,14 +199,6 @@
     {
       "basename": "Heaps Theory - UpHeapify, DownHeapify",
       "path": "PriorityQueue/Heaps Theory - UpHeapify, DownHeapify.md"
-    },
-    {
-      "basename": "Print nodes at distance k from node",
-      "path": "BinaryTree/Qs/Print nodes at distance k from node.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
     }
   ],
   "omittedPaths": [],
