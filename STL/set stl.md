@@ -1,4 +1,6 @@
 
+This is internally a Red Black tree implementation.
+
 ## Basic Functionality
 
 [Open File in VS Code](vscode://file/Users/vibhubhanot/Documents/DSA/stl/ordered/set/basic.cpp)
@@ -8,6 +10,10 @@ TITLE: "stl/ordered/set/basic.cpp"
 LINES: "1-200"
 ```
 
+
+## How is uniqueness determined in sets?
+
+![[Screenshot 2025-09-02 at 4.48.31 PM.png]]
 
 
 ## Custom Sets (using Node)
@@ -25,7 +31,7 @@ LINES: "1-200"
 
 Why don't we use custom set (having 2 data variables) over a map.
 Answer is: the data members in a set cannot be modified.
-`itr->second = 10` is not possible in a set but is possible in a map
+`itr->second = 10` is not possible in a set but is possible in a map ^mt30qj
 
 
 [Open File in VS Code](vscode://file/Users/vibhubhanot/Documents/DSA/stl/ordered/set/negativeExample.cpp)
@@ -48,3 +54,9 @@ PATH: "vault://Assets/Code/stl/ordered/set/nextAndDist.cpp"
 TITLE: "stl/ordered/set/nextAndDist.cpp"
 LINES: "1-200"
 ```
+
+
+
+### To know how BinarySearchFuncs work on set
+
+See [[BinarySearchFuncs for set]]

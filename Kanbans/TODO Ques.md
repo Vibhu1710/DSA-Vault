@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] [[priority_queue<>]]
+- [ ] [[priority_queue stl]]
 	STL PDF Theory writing..
 - [ ] [[Diameter of a BT]]
 	
@@ -51,20 +51,21 @@ kanban-plugin: board
 	- [x] Eye research
 	- [x] Mummy ayurveda products buy
 	- [ ] Facebook Content Discovery
+	- [ ] Change routine alarms
 	
 	**Code Management Work**
 	
 	- [ ] rectify codeforces scraper
 	- [ ] improve codechef scraper
-	- [ ] Change routine alarms
+	
 	- [x] pdf clipping mechanism research
-	- [ ] Git ignore issue
+	- [x] Git ignore issue
 	- [ ] Stars rating to que notes
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
 	<br/>
 	- [ ] VS Code Snippets (templates) research
-	- [ ] VS Code Git automatic push config
+	- [x] VS Code Git automatic push config
 	- [ ] Daily Notes Dots Config
 	- [ ] Tab switching problems in obsidian
 

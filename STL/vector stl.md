@@ -13,7 +13,7 @@ LINES: "1-200"
 
 ## Custom Vector & Sorting
 
-Better method exists now: check [[BinarySearchFuncs for vector<>]]
+Better method exists now: check [[BinarySearchFuncs for vector#New Custom Vector Sorting Technique & its BSFs|Sorting & BSFs for vectors]]
 
 [Open File in VS Code](vscode://file/Users/vibhubhanot/Documents/DSA/stl/vector/base/customSort.cpp)
 ```embed-cpp
@@ -34,3 +34,16 @@ TITLE: "stl/vector/base/iterators.cpp"
 LINES: "1-200"
 ```
 
+
+
+### To know how BinarySearchFuncs work on vectors
+
+See [[BinarySearchFuncs for vector]]
+
+
+### See how vectors are implemented internally..
+See [[Implement Vector]]
+
+## 2D vectors
+
+See [[2D vector stl]]
