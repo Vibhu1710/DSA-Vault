@@ -6,41 +6,43 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] [[priority_queue stl]]
-	STL PDF Theory writing..
-- [ ] [[Diameter of a BT]]
+- [ ] **BST QueLog**
+	2 JFR questions to solve
 	
-	- Both Unoptimized & optimized sols
-	 - Make a theory note of this
+	#BST
+- [ ] **Priority Queues QueLog** (later)
+	- [[K smallest elements]]
+	- [[Merge K sorted arrays]]
+	- [[Running Median]] <-
 - [ ] **Balanced BSTs Study**
 	- AVL Trees
 	- Red Black Trees
 	
 	#BST
-- [ ] **BST QueLog**
-	2 JFR questions to solve
-	
-	#BST
 - [ ] **Merge Sort Algo & its TCA**
 	- to be done #sorting
-- [ ] [[Pair sum in a BST]]
-	- special with using less memory space
-	- clever implementation, will try later
-- [ ] **Priority Queues QueLog** (later)
-	- [[K smallest elements]]
-	- [[Merge K sorted arrays]]
-	- [[Running Median]] <-
 - [ ] **Quick Sort Algo**
 - [ ] **Operator Overloading**
 	
 	#cpp
-- [ ] **Obsidian Config Tasks**
+- [ ] **Important Theory -** **OOPs 3**
 	
-	 - [ ] Figure out highlighting in PDFs
-	 - [x] 2 more scrapers - codechef, codeforces
-	 - [x] tagging automation
-	 - [x] Git configuration
-	 - [x] Graph view coloring
+	- Diamond Problem
+	- Polymorphism
+	- Function Overloading/Overriding
+	- etc
+	
+	#cpp
+- [ ] **Hash Maps Ques?**
+	- we can revise a few ques in hashMaps folder in vscode.
+- [ ] **Hash Map Theory**
+	
+	- Hashing, load factor
+	- Collision Handling?
+	- Implementing Hash Map?
+- [ ] [[Pair sum in a BST]]
+	- special with using less memory space
+	- clever implementation, will try later
 - [ ] **This Sunday**
 	
 	- [x] workout plan improvements
@@ -86,21 +88,25 @@ kanban-plugin: board
 	
 	- [x] Solution implementation
 	- [ ] Theory Making
+- [ ] [[Diameter of a BT]]
+	
+	- Both Unoptimized & optimized sols
+	 - Make a theory note of this
 - [ ] [[ZigZag tree]]
 	
 	- [x] Approach 1 - 2 stacks zigzag traversal
 	- [ ] Approach 2 - 1 stack, normal traversal
 	- [ ] Excalidraw update?
+- [ ] [[Construct Tree from postorder & inorder]]
+	
+	- [x] Implement code solution
+	- [ ] TCA analysis - Note making
 - [ ] [[Construct Binary Tree from Level-Order Array]]
 	
 	- [x] App. 1, Implement solution
 	- [ ] Try CBT Approach, if possible
 	- [ ] Properly test approach 1
 	- [ ] Check of CN does it in their main() code
-- [ ] [[Construct Tree from postorder & inorder]]
-	
-	- [x] Implement code solution
-	- [ ] TCA analysis - Note making
 
 
 ## Done
@@ -112,6 +118,13 @@ kanban-plugin: board
 	- [x] Approach 1 (own)
 	- [x] App 2: Bottom Up standard sol
 	- [x] App 3: Top Down sol
+- [x] **Obsidian Config Tasks**
+	
+	 - [x] Figure out highlighting in PDFs
+	 - [x] 2 more scrapers - codechef, codeforces
+	 - [x] tagging automation
+	 - [x] Git configuration
+	 - [x] Graph view coloring
 
 
 ***
