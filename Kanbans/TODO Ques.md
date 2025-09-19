@@ -74,6 +74,10 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Minimum Count]]
+	 - [x] all approaches
+	 - [ ] root N number theory reference
+	 - [ ] After word for this question?
 - [ ] **BST Basic Property** (theory making)
 	- bottom up property
 	- top down property
