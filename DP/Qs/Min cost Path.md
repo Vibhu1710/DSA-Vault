@@ -1,15 +1,16 @@
 ---
-solution_file:
+solution_file: dp/minCostPath.cpp
 tags:
   - DP
+  - 2D DP
 type:
-solved: false
+solved: true
 platform: CodingNinjas
 date_created: Fri, 19 Sep
 ---
 
 ##### Question Source  
-[Link](https://classroom.codingninjas.com/app/classroom/me/13774/content/250091/offering/3394650/problem/138?leftPanelTabValue=PROBLEM)
+[Link](https://classroom.codingninjas.com/app/classroom/me/13774/content/250095/offering/3394672/problem/1674)
 
 ---
 
@@ -53,54 +54,89 @@ if (frontmatter?.solution_file) {
 ## Problem statement
 <ninjas-problems-ui-send-feedback-button><button>Send feedback</button></ninjas-problems-ui-send-feedback-button>
 
-Given an integer h, find the possible number of balanced binary trees of height h. You just need to return the count of possible binary trees which are balanced.
+An integer matrix of size (M x N) has been given. Find out the minimum cost to reach from the cell (0, 0) to (M - 1, N - 1).
 
-This number can be huge, so, return output modulus 10^9 + 7.
+From a cell (i, j), you can move in three directions:
 
-Time complexity should be O(h).
+```
+1. ((i + 1),  j) which is, "down"
+2. (i, (j + 1)) which is, "to the right"
+3. ((i+1), (j+1)) which is, "to the diagonal"
+```
+
+The cost of a path is defined as the sum of each cell's values through which the route passes.
 
 Detailed explanation ( Input/output format, Notes, Images )
 
-**Input Format :**
+**Input format :**
 
 ```
-The first and only line of input contains an integer, that denotes the value of h. Here, h is the height of the tree.
+The first line of the test case contains two integer values, 'M' and 'N', separated by a single space. They represent the 'rows' and 'columns' respectively, for the two-dimensional array/list.
+
+The second line onwards, the next 'M' lines or rows represent the ith row values.
+
+Each of the ith row constitutes 'N' column values separated by a single space.
 ```
-**Output Format :**
+**Output format :**
 
 ```
-The first and only line of output contains the count of balanced binary trees modulus 10^9 + 7.
+Print the minimum cost to reach the destination.
 ```
 
 **Constraints :**
 
 ```
-1 <= h <= 10^6
+1 <= M <= 10 ^ 2
+1 <= N <=  10 ^ 2
+
 Time Limit: 1 sec
 ```
 
-##### Sample Input 1:
+##### Sample Input 1 :
 
 ```
-3
+3 4
+3 4 1 2
+2 1 8 9
+4 7 8 1
 ```
 
-##### Sample Output 1:
+##### Sample Output 1 :
 
 ```
-15
+13
 ```
 
-##### Sample Input 2:
+##### Sample Input 2 :
 
 ```
-4
+3 4
+10 6 9 0
+-23 8 9 90
+-200 0 89 200
 ```
 
-##### Sample Output 2:
+##### Sample Output 2 :
 
 ```
-315
+76
+```
+
+##### Sample Input 3 :
+
+```
+5 6
+9 6 0 12 90 1
+2 7 8 5 78 6
+1 6 0 5 10 -4 
+9 6 2 -10 7 4
+10 -2 0 5 5 7
+```
+
+##### Sample Output 3 :
+
+```
+18
 ```
 
 ---
@@ -108,15 +144,8 @@ Time Limit: 1 sec
 **Starter Code:**
 
 ```cpp
-int balancedBTs(int n) {
-    // Write your code here
+int minCostPath(int **input, int m, int n){
+	// your code here
 }
 ```
 
-
-
-> [!NOTE] After Thoughts
-> - I came up with this formula, which is non codeable?
->   
->   ![[Screenshot 2025-09-19 at 11.48.55 AM.png]]
-> - But this can be done through DP

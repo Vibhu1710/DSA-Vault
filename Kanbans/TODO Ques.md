@@ -64,6 +64,7 @@ kanban-plugin: board
 	- [x] Git ignore issue
 	- [ ] Stars rating to que notes
 	- [ ] feature - 1 queNote linked to >1 Q indices
+	- [ ] Screenshots or pngs directly going to assets folder
 	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
 	<br/>
 	- [ ] VS Code Snippets (templates) research
@@ -74,10 +75,6 @@ kanban-plugin: board
 
 ## Active
 
-- [ ] [[Minimum Count]]
-	 - [x] all approaches
-	 - [ ] root N number theory reference (**Important**)
-	 - [ ] After word for this question?
 - [ ] **BST Basic Property** (theory making)
 	- bottom up property
 	- top down property
@@ -116,6 +113,10 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] [[Minimum Count]]
+	 - [x] all approaches
+	 - [x] root N number theory reference (**Important**)
+	 - [x] After word for this question?
 - [x] [[Check BST]]
 	
 	- [x] Unoptimized Solution

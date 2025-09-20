@@ -1,5 +1,3 @@
 
-<%*
-tR += `> [!NOTE] After Thoughts
-> - `
-%>
+> [!NOTE] After Thoughts
+> - 

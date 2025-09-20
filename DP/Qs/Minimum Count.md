@@ -130,7 +130,9 @@ int minCount(int n)
 
 
 
-<%*
-tR += `> [!NOTE] After Thoughts
-> - `
-%>
+> [!NOTE] After Thoughts
+> - This is one example of DP question where we are looping at every n in the DP array, giving the time complexity to be O(n * rootN)
+>  - Also have a look brute force time complexity analysis:
+>   
+> ![[Screenshot 2025-09-19 at 11.46.55 AM.png]]
+
