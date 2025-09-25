@@ -1,2 +1,5 @@
 - [[Minimum Count]]
 - [[Number of balanced Binary Trees]]
+- [[Min cost Path]]
+- [[Longest Common Subsequence]]
+- [[Edit Distance]]
