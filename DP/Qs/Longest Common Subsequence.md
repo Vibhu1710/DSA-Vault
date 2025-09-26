@@ -2,6 +2,7 @@
 solution_file: dp/lcsResolved.cpp
 tags:
   - DP
+
 type:
 solved: true
 platform: LeetCode

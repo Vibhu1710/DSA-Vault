@@ -1,7 +1,7 @@
 ---
 solution_file: stl/binarySearchFunctions/upperBoundImplementation.cpp
 tags:
-  - STL
+  - BinarySearch
 type:
 solved: true
 platform:

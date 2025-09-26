@@ -1,6 +1,7 @@
 
-`lower_bound()`
-`upper_bound()`
+1. `lower_bound()`
+2. `upper_bound()`
+
 
 ### Within the library (for map and set)
 
