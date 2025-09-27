@@ -22,6 +22,10 @@ int getMaxEleIndex(vector<int> &maxHeap, int parentIndex, int leftChildIndex, in
 }
 ```
 
+**NEW INFO !!** Instead of using max_element above, we can directly use max as well
+But we would need to declare 3 pairs explicitly for this purpose!
+  
+![[Screenshot 2025-09-27 at 11.55.08 AM.png]]
 
 - *Generic usecase*
 

@@ -6,6 +6,14 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] Search if there is any other approach to [[Edit Distance]]
+- [ ] **Interesting String Question**
+	Given 2 strings have same count of all its characters.. Print minimum number of swaps it would take to make string 2 equal to string 1
+- [ ] Whole approach and working of [[Longest Common Subsequence]]
+	**Thery Making**
+- [ ] **Power Set Method**
+	to generate all subsequences of a given string
+	pre to [[Longest Common Subsequence]] type question
 - [ ] **BST QueLog**
 	2 JFR questions to solve
 	
@@ -53,7 +61,7 @@ kanban-plugin: board
 	- [x] Eye research
 	- [x] Mummy ayurveda products buy
 	- [ ] Facebook Content Discovery
-	- [ ] Change routine alarms
+	- [x] Change routine alarms
 	
 	**Code Management Work**
 	
@@ -75,6 +83,15 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **Binary Search initial Theory Making**
+	- Binary search algo to find ele
+	- BS algo for (t, t, t, f, f, f, f, f, f)
+	- BS algo for finding peak (or peaks)
+- [ ] [[Search In Rotated Sorted Array]]
+	
+	- Try using logn + logn approach
+- [ ] **New Number Theory Concept**
+	Finding root N of a number in logN time complexity
 - [ ] Link Upper Bound Implementation to STL Q indices
 - [ ] **BST Basic Property** (theory making)
 	- bottom up property
