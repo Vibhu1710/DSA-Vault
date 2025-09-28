@@ -10,7 +10,7 @@ kanban-plugin: board
 - [ ] **Interesting String Question**
 	Given 2 strings have same count of all its characters.. Print minimum number of swaps it would take to make string 2 equal to string 1
 - [ ] Whole approach and working of [[Longest Common Subsequence]]
-	**Thery Making**
+	**Theory Making**
 - [ ] **Power Set Method**
 	to generate all subsequences of a given string
 	pre to [[Longest Common Subsequence]] type question
@@ -83,6 +83,9 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **See What went wrong**
+	- In Aggresive cows, DP approach attempt
+	- The code is being said to be logically incorrect!
 - [ ] **Binary Search initial Theory Making**
 	- Binary search algo to find ele
 	- BS algo for (t, t, t, f, f, f, f, f, f)
