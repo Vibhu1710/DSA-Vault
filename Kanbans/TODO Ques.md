@@ -83,6 +83,7 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] Can swap() be used for pointers?
 - [ ] **Knapsack Problem**
 	- DP with O(W) space complexty
 	- DP by value, different perspective
