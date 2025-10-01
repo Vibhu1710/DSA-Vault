@@ -83,6 +83,11 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **Knapsack Problem**
+	- DP with O(W) space complexty
+	- DP by value, different perspective
+	
+	Later, there are other advanced CP approaches that I might need to cover..
 - [ ] **See What went wrong**
 	- In Aggresive cows, DP approach attempt
 	- The code is being said to be logically incorrect!

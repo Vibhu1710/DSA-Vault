@@ -1,8 +1,9 @@
 ---
-solution_file: 
-tags: []
-type: 
-solved: false
+solution_file: binarySearch/aggresiveCowsResolved.cpp
+tags:
+  - BinarySearch
+type:
+solved: true
 platform: CodingNinjas
 date_created: Sat, 27 Sep
 ---
@@ -135,74 +136,15 @@ Time Limit: 1 sec.
 **Starter Code:**
 
 ```cpp
-#include<climits>
-
-
-// Bottom Up Approach - Memoization
-// TC - O(n * k), SC - O(n * k)
-pair<int, int> findMaximumClosestDistance(vector<vector<pair<int, int>>> &memo, vector<int> &stalls, int n, int k){
-    if(k == 2){
-        return memo[n][k];
-    }
-
-    // using memoized value
-    if(memo[n][k].first != -1) return memo[n][k];
-
-    // Case 1. Cow ignored for current position
-    pair<int, int> cowIgnoredRes = {-1, -1}; // Indicative of invalid entry
-    if(n > k){
-        cowIgnoredRes = findMaximumClosestDistance(memo, stalls, n-1, k);
-    }
-
-     // Case 2. Cow selected for current position
-    auto cowSelectedRes = findMaximumClosestDistance(memo, stalls, n-1, k-1);
-    int lastSelectedCowPos = cowSelectedRes.second;
-    int closestDist = min(cowSelectedRes.first, stalls[n-1] - lastSelectedCowPos);
-
-    pair<int, int> cowSelectedNewRes = {closestDist, stalls[n-1]};
-    // no case will occur in this where, closestDist b/w noCowSelected and cowSelected is equal
-    // because, for the same n, if you enter with k and k-1 cows, the closestDist for k-1 is always > that for k
-    return memo[n][k] = max(cowIgnoredRes, cowSelectedNewRes);
-}
 int aggressiveCows(vector<int> &stalls, int k){
-    sort(stalls.begin(), stalls.end()); // nlogn
-    int n = stalls.size();
-    vector<vector<pair<int, int>>> memo(n+1, vector<pair<int, int>>(k+1, {-1, -1}));
-    for(int i=2; i<=n; ++i) memo[i][2] = {stalls[i-1] - stalls[0], stalls[i-1]};
-    return findMaximumClosestDistance(memo, stalls, stalls.size(), k).first;
+    // your code here
 }
-
-
-// Recursive Approach
-// TC - O(2 ^ (n + k)), SC - O(n + k) [recursion stack]
-// pair<int, int> findMaximumClosestDistance(vector<int> &stalls, int n, int k){
-//     if(k == 2){ // on observing more thoroughly, I found this new base case
-//         return {stalls[n-1] - stalls[0], stalls[n-1]};
-//     }
-
-//     // Case 1. Cow ignored for current position
-//     pair<int, int> cowIgnoredRes = {-1, -1}; // Indicative of invalid entry
-//     if(n > k){
-//         cowIgnoredRes = findMaximumClosestDistance(stalls, n-1, k);
-//     }
-
-//      // Case 2. Cow selected for current position
-//     auto cowSelectedRes = findMaximumClosestDistance(stalls, n-1, k-1);
-//     int lastSelectedCowPos = cowSelectedRes.second;
-//     int closestDist = min(cowSelectedRes.first, stalls[n-1] - lastSelectedCowPos);
-
-//     pair<int, int> cowSelectedNewRes = {closestDist, stalls[n-1]};
-//     // no case will occur in this where, closestDist b/w noCowSelected and cowSelected is equal
-//     // because, for the same n, if you enter with k and k-1 cows, the closestDist for k-1 is always > that for k
-//     return max(cowIgnoredRes, cowSelectedNewRes);
-// }
-// int aggressiveCows(vector<int> &stalls, int k){
-//     sort(stalls.begin(), stalls.end()); // nlogn
-//     return findMaximumClosestDistance(stalls, stalls.size(), k).first;
-// }
-
-
-
-
 ```
 
+
+
+
+
+> [!NOTE] After Thoughts
+> - https://www.youtube.com/watch?v=R_Mfw4ew-Vo
+> - Could not solve it, here we use minDistance as a BS variable and use greedy to see if all cows can be arranged **for given minDistance**
