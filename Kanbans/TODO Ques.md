@@ -83,6 +83,9 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **TODO [[0 1 Knapsack]]**
+	- Implement the "Value" perspective
+	- And note it in excalidraw for sure
 - [ ] Can swap() be used for pointers?
 - [ ] **Knapsack Problem**
 	- DP with O(W) space complexty
