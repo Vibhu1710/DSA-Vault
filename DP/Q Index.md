@@ -3,3 +3,4 @@
 - [[Min cost Path]]
 - [[Longest Common Subsequence]]
 - [[Edit Distance]]
+- [[Longest Increasing Subsequence]]

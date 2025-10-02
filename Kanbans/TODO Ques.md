@@ -83,6 +83,9 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **TODO [[Longest Increasing Subsequence]]**
+	- [x] Implement the tabulation method (DP based as well)
+	- [ ] Try out Binary Search approach
 - [ ] **TODO [[0 1 Knapsack]]**
 	- Implement the "Value" perspective
 	- And note it in excalidraw for sure
