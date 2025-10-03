@@ -62,6 +62,7 @@ kanban-plugin: board
 	- [x] Mummy ayurveda products buy
 	- [ ] Facebook Content Discovery
 	- [x] Change routine alarms
+	- [ ] Order electrolyte powder
 	
 	**Code Management Work**
 	
@@ -86,6 +87,9 @@ kanban-plugin: board
 - [ ] **TODO [[Longest Increasing Subsequence]]**
 	- [x] Implement the tabulation method (DP based as well)
 	- [ ] Try out Binary Search approach
+- [ ] **Revisit [[Number of balanced Binary Trees]]**
+	- With the fact now I have an idea of how to code, what I was thinking about
+	- That approach. may also come out to be DP based
 - [ ] **TODO [[0 1 Knapsack]]**
 	- Implement the "Value" perspective
 	- And note it in excalidraw for sure
