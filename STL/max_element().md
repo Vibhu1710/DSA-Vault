@@ -1,5 +1,4 @@
 
-
 <br/>
 
 ### Get Index of Element with Max Value (in given vector)
