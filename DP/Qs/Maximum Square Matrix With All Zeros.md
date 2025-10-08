@@ -1,9 +1,9 @@
 ---
-solution_file:
+solution_file: dp/maxSizeSquareWithAll0s.cpp
 tags:
   - DP
 type:
-solved: false
+solved: true
 platform: CodingNinjas
 date_created: Mon, 06 Oct
 ---
