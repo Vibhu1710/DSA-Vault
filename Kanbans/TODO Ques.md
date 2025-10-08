@@ -33,6 +33,9 @@ kanban-plugin: board
 - [ ] **Operator Overloading**
 	
 	#cpp
+- [ ] **Counting Sort**
+	
+	#cpp
 - [ ] **Important Theory -** **OOPs 3**
 	
 	- Diamond Problem
