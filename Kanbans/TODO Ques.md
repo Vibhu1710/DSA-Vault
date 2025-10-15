@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **IMPORTANT**
+	Do more questions on DP on strings!!
 - [ ] Search if there is any other approach to [[Edit Distance]]
 - [ ] **Interesting String Question**
 	Given 2 strings have same count of all its characters.. Print minimum number of swaps it would take to make string 2 equal to string 1
