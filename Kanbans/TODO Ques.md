@@ -6,6 +6,19 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **Rabin Karp Algo**
+	- [x] Understanding the working
+	- [ ] Mugging up the code/Implementation
+	- [ ] Testing Collision for the hash function
+- [ ] [[C. Beautiful XOR]]
+	codeforces solution
+	- [x] guessed the approach
+	- [ ] logn implementation
+	- [ ] O(1) implementation
+- [ ] **17/10 Contest By-Products**
+	- Power Set of calculating subsequences
+	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
+	- Ques D, E, F
 - [ ] **IMPORTANT**
 	Do more questions on DP on strings!!
 - [ ] Search if there is any other approach to [[Edit Distance]]
@@ -60,14 +73,13 @@ kanban-plugin: board
 	
 	- [x] workout plan improvements
 	- [x] Grip strength research
-	- [ ] Typing technique
+	- [x] Typing technique
 	- [x] Seat Research
 	- [ ] teeth related research
 	- [x] Eye research
 	- [x] Mummy ayurveda products buy
 	- [ ] Facebook Content Discovery
 	- [x] Change routine alarms
-	- [ ] Order electrolyte powder
 	
 	**Code Management Work**
 	
