@@ -6,10 +6,7 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] **Rabin Karp Algo**
-	- [x] Understanding the working
-	- [ ] Mugging up the code/Implementation
-	- [ ] Testing Collision for the hash function
+- [ ] **Aho Corasick String Algo?**
 - [ ] [[C. Beautiful XOR]]
 	codeforces solution
 	- [x] guessed the approach
@@ -19,6 +16,18 @@ kanban-plugin: board
 	- Power Set of calculating subsequences
 	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
 	- Ques D, E, F
+- [ ] **KMP Algo**
+	- [ ] Evaluate why creation of LPS array (Pie table) is O(m) only (Also look at Abdul's nazaria)
+	- [ ] Essence of KMP
+	- [x] Learning KMP
+	- [x] KMP Implementation code
+	- [ ] KMP write down note book
+- [ ] **Rabin Karp Algo**
+	- [x] Understanding the working
+	- [x] Mugging up the code/Implementation
+	- [x] Testing Collision for the hash function
+	- [ ] What if 'A' in Rabin Karp happens (or other characters happen to exist).. will RK algo work still?
+	- [ ] Create a note of this in obsidian.. should add anything else as well in this one?
 - [ ] **IMPORTANT**
 	Do more questions on DP on strings!!
 - [ ] Search if there is any other approach to [[Edit Distance]]
@@ -92,6 +101,7 @@ kanban-plugin: board
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [ ] Screenshots or pngs directly going to assets folder
 	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
+	- [ ] Remove altu faltu code recommendations on vs code while I type C++
 	<br/>
 	- [ ] VS Code Snippets (templates) research
 	- [x] VS Code Git automatic push config
@@ -101,6 +111,10 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Shortest Subsequence]]
+	- [x] Understand the approach
+	- [x] Implement solution
+	- [ ] One intriguing subproblem or edge case that is causing issue & needs to be dealt with
 - [ ] **TODO [[Longest Increasing Subsequence]]**
 	- [x] Implement the tabulation method (DP based as well)
 	- [ ] Try out Binary Search approach

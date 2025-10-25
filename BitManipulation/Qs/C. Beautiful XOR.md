@@ -1,9 +1,9 @@
 ---
-solution_file:
+solution_file: bitManipulation/beautifulXor.cpp
 tags:
   - BitManipulation
 type:
-solved: false
+solved: true
 platform: CodeForces
 date_created: Thu, 23 Oct
 ---
