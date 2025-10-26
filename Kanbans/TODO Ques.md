@@ -6,12 +6,18 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **Find MSB of a number in O(1) **
+	
+	#BitManipulation
+- [ ] [[D. Beautiful Permutation]]
+	- [x] Found a way to solve this problem
+	- [x] Implemented the code
+	Possibly it is exceeding the number of query limit
+	
+	- [ ] Implement the editorial suggested approach
+- [ ] **IMPORTANT**
+	**Clearcut extra practice needed for BS ques**
 - [ ] **Aho Corasick String Algo?**
-- [ ] [[C. Beautiful XOR]]
-	codeforces solution
-	- [x] guessed the approach
-	- [ ] logn implementation
-	- [ ] O(1) implementation
 - [ ] **17/10 Contest By-Products**
 	- Power Set of calculating subsequences
 	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
@@ -181,6 +187,11 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] [[C. Beautiful XOR]]
+	codeforces solution
+	- [x] guessed the approach
+	- [x] logn implementation
+	- [x] O(1) implementation
 - [x] [[Minimum Count]]
 	 - [x] all approaches
 	 - [x] root N number theory reference (**Important**)
