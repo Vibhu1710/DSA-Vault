@@ -84,17 +84,7 @@ kanban-plugin: board
 - [ ] [[Pair sum in a BST]]
 	- special with using less memory space
 	- clever implementation, will try later
-- [ ] **This Sunday**
-	
-	- [x] workout plan improvements
-	- [x] Grip strength research
-	- [x] Typing technique
-	- [x] Seat Research
-	- [ ] teeth related research
-	- [x] Eye research
-	- [x] Mummy ayurveda products buy
-	- [ ] Facebook Content Discovery
-	- [x] Change routine alarms
+- [ ] **Pending Extra Activities**
 	
 	**Code Management Work**
 	
@@ -107,12 +97,14 @@ kanban-plugin: board
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [ ] Screenshots or pngs directly going to assets folder
 	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
-	- [ ] Remove altu faltu code recommendations on vs code while I type C++
+	
 	<br/>
+	
 	- [ ] VS Code Snippets (templates) research
 	- [x] VS Code Git automatic push config
 	- [ ] Daily Notes Dots Config
 	- [ ] Tab switching problems in obsidian
+	- [ ] Remove altu faltu code recommendations on vs code while I type C++
 
 
 ## Active
