@@ -1,9 +1,9 @@
 ---
-solution_file:
+solution_file: dp/01knapsack.cpp
 tags:
-  - BinarySearch
+  - DP
 type:
-solved: false
+solved: true
 platform: CodingNinjas
 date_created: Wed, 01 Oct
 ---
