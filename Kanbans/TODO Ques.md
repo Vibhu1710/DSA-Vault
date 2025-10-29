@@ -6,6 +6,14 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] Check for very short theory notes from 29/10 solving in personal notes
+	- [ ] int to long long shortcut technique
+	- [ ] prefixSum pre requisite knowledge
+- [ ] [Sport Mafia](https://codeforces.com/problemset/problem/1195/B)
+	- [ ] See how it is being solved in editorial (A quadratic equation basically)
+- [ ] [[A. K-divisible Sum]]
+	- [x] solve the que
+	- [ ] understand the shortcut formula suggested in the tutorial (possibly will come handy in future)
 - [ ] **Find MSB of a number in O(1) **
 	
 	#BitManipulation
