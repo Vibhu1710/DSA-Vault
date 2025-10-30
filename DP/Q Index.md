@@ -3,4 +3,8 @@
 - [[Min cost Path]]
 - [[Longest Common Subsequence]]
 - [[Edit Distance]]
+- [[0 1 Knapsack]]
 - [[Longest Increasing Subsequence]]
+- [[Matrix Chain Multiplication]]
+- [[Coin Tower]]
+- [[Maximum Square Matrix With All Zeros]]

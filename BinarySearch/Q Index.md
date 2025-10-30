@@ -2,4 +2,5 @@
 - [[Find Peak Element]]
 - [[Search In Rotated Sorted Array]]
 - [[Aggressive Cows]]
-- [[0 1 Knapsack]]
+- [[D. Beautiful Permutation]]
+- [[C. Save More Mice]]
