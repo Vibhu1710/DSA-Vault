@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] [[C. Sum of Cubes]] (1100)
+	- [ ] Find the approach
+	- [ ] Implement the code part
+- [ ] **Oct 29 Codechef Contest**
+	Atleast Upsolve this question from the codeChef contest
+	[[Delete Sorted Subsequence]]
 - [ ] Check for very short theory notes from 29/10 solving in personal notes
 	- [ ] int to long long shortcut technique
 	- [ ] prefixSum pre requisite knowledge
