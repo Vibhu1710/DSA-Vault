@@ -7,7 +7,7 @@ kanban-plugin: board
 ## Question Log
 
 - [ ] [[C. Sum of Cubes]] (1100)
-	- [ ] Find the approach
+	- [x] Find the approach
 	- [ ] Implement the code part
 - [ ] **Oct 29 Codechef Contest**
 	Atleast Upsolve this question from the codeChef contest
