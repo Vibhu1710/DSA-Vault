@@ -6,6 +6,8 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
+	Probably will introduce a cheat day for it
 - [ ] [[C. Sum of Cubes]] (1100)
 	- [x] Find the approach
 	- [ ] Implement the code part
