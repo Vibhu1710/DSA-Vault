@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] [[3733. Minimum Time to Complete All Deliveries]]
+	Very interesting binary search question
+	- [x] Understand solution (Connect the dots)
+	- [ ] Implement my solution (my monotonic function)
+	- [ ] Implement standard solution
+	- [ ] Takeaways: Inclusion Exclusion principle? Int overflow method (I am not aware of that thing)!
 - [ ] **Leetcode Last Contest:**
 	atleast 2 ques to upsolve for this
 - [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
