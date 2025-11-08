@@ -1,7 +1,8 @@
 ---
-solution_file: 
-tags: []
-type: 
+solution_file:
+tags:
+  - Strings
+type:
 solved: false
 platform: CodeForces
 date_created: Fri, 07 Nov
