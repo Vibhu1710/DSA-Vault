@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] **Generate all permutations of a string**
-	⭐⭐
-	
-	#extra
 - [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
 	Probably will introduce a cheat day for it
 - [ ] **Interesting String Question**
@@ -232,6 +228,11 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] **Generate all permutations of a string**
+	⭐⭐
+	[[Printing all Permutations of a given string]]
+	
+	#extra
 - [x] [[Longest Increasing Subsequence]]**
 	- [x] Implement the tabulation method (DP based as well)
 	- [x] Understand Binary Search approach
