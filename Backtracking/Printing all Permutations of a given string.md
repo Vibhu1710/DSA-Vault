@@ -1,3 +1,7 @@
+---
+tags:
+  - Backtracking
+---
 
 This a bit theoretical..
 
