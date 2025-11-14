@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] [[Advanced Techniques for calculating distinct substrings]]
+	- Suffix Tree
+	- Suffix Automaton
 - [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
 	Probably will introduce a cheat day for it
 - [ ] **Interesting String Question**
@@ -93,12 +96,6 @@ kanban-plugin: board
 
 ## Active
 
-- [ ] [[Z Algorithm]]
-	- [x] Understanding flow of algo & pseudo algo
-	- [x] analyze different test cases
-	- [x] TCA
-	- [x] Learn Code & Implement
-	- [ ] Note in notebook
 - [ ] [17/10 Codeforces Contest](https://codeforces.com/contest/2162) **By-Products**
 	- Power Set of calculating subsequences
 	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
@@ -254,6 +251,12 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] [[Z Algorithm]]
+	- [x] Understanding flow of algo & pseudo algo
+	- [x] analyze different test cases
+	- [x] TCA
+	- [x] Learn Code & Implement
+	- [x] Note in notebook
 - [x] **KMP Algo**
 	- [x] Evaluate why creation of LPS array (Pie table) is O(m) only (Also look at Abdul's nazaria)
 	- [x] Essence of KMP
