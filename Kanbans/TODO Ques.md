@@ -25,12 +25,6 @@ kanban-plugin: board
 - [ ] **IMPORTANT**
 	**Clearcut extra practice needed for BS ques**
 - [ ] **Aho Corasick String Algo?**
-- [ ] **Rabin Karp Algo**
-	- [x] Understanding the working
-	- [x] Mugging up the code/Implementation
-	- [x] Testing Collision for the hash function
-	- [ ] What if 'A' in Rabin Karp happens (or other characters happen to exist).. will RK algo work still?
-	- [ ] Create a note of this in obsidian.. should add anything else as well in this one?
 - [ ] **Power Set Method**
 	to generate all subsequences of a given string
 	pre to [[Longest Common Subsequence]] type question
@@ -99,6 +93,12 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Z Algorithm]]
+	- [x] Understanding flow of algo & pseudo algo
+	- [x] analyze different test cases
+	- [x] TCA
+	- [x] Learn Code & Implement
+	- [ ] Note in notebook
 - [ ] [17/10 Codeforces Contest](https://codeforces.com/contest/2162) **By-Products**
 	- Power Set of calculating subsequences
 	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
@@ -106,9 +106,29 @@ kanban-plugin: board
 	- [x] D interactive que
 	- [ ] E (IDK.. raises a new que)
 	- [ ] F
+	
+	#contest
 - [ ] [Leetcode Last Contest](https://leetcode.com/contest/weekly-contest-474/)
 	**Atleast 2 ques to upsolve for this**
 	- [ ] last que from leetcode contest
+	
+	#contest
+- [ ] [[3720. Lexicographically Smallest Permutation Greater Than Target]]
+	
+	- [x] Tried my approach O(nlogn)
+	
+	This above approach was unique. it involved using multiset with binary search (upper_bound)
+	
+	- [ ] Was it easier to code through recursion?
+	- [ ] Optimization to O(n)? (recommended approach)
+	- [ ] See, **what if the source and target string size would have been different?**
+	- [ ] Then move on to the next question
+	
+	
+	followed by
+	[[3734. Lexicographically Smallest Palindromic Permutation Greater Than Target]]
+	
+	#contest
 - [ ] [[E. Beautiful Palindromes]]
 	
 	- [x] I found prerequisite might be: Longest Palindromic Subarray
@@ -118,6 +138,8 @@ kanban-plugin: board
 	- [x] See what my solution idea was solving (using manacher)
 	- [ ] Implement editorial code
 	- [ ] Notemaking - the in-depth nature of a palindrome
+	
+	#contest
 - [ ] [[Maximum Palindromic Subarray]]
 	**trademark theory que**
 	- [x] Know all approaches
@@ -134,6 +156,8 @@ kanban-plugin: board
 - [ ] **Oct 29 Codechef Contest**
 	Atleast Upsolve this question from the codeChef contest
 	[[Delete Sorted Subsequence]]
+	
+	#contest
 - [ ] [[Shortest Subsequence]]
 	- [x] Understand the approach
 	- [x] Implement solution
@@ -144,6 +168,8 @@ kanban-plugin: board
 	- [x] Implement my solution (my monotonic function)
 	- [x] Implement standard solution
 	- [ ] Takeaways: Inclusion Exclusion principle? Int overflow method (I am not aware of that thing)!
+	
+	#contest
 - [ ] [[A. K-divisible Sum]]
 	- [x] solve the que
 	- [ ] understand the shortcut formula suggested in the tutorial (possibly will come handy in future)
@@ -187,18 +213,18 @@ kanban-plugin: board
 
 ## Cosmetics Left
 
+- [ ] **Rabin Karp Algo**
+	- [x] Understanding the working
+	- [x] Mugging up the code/Implementation
+	- [x] Testing Collision for the hash function
+	- [x] What if 'A' in Rabin Karp happens (or other characters happen to exist).. will RK algo work still?
+	- [ ] Create a note of this in obsidian.. should add anything else as well in this one?
 - [ ] **Find MSB of a number in O(1) **
 	
 	#BitManipulation
 - [ ] Check for very short theory notes from 29/10 solving in personal notes
 	- [ ] int to long long shortcut technique
 	- [ ] prefixSum pre requisite knowledge
-- [ ] **KMP Algo**
-	- [x] Evaluate why creation of LPS array (Pie table) is O(m) only (Also look at Abdul's nazaria)
-	- [x] Essence of KMP
-	- [x] Learning KMP
-	- [x] KMP Implementation code
-	- [ ] KMP write down note book
 - [ ] **Heap** (theory making)
 	- Link note PDF
 	
@@ -228,6 +254,12 @@ kanban-plugin: board
 ## Done
 
 **Complete**
+- [x] **KMP Algo**
+	- [x] Evaluate why creation of LPS array (Pie table) is O(m) only (Also look at Abdul's nazaria)
+	- [x] Essence of KMP
+	- [x] Learning KMP
+	- [x] KMP Implementation code
+	- [x] KMP write down note book
 - [x] **Generate all permutations of a string**
 	⭐⭐
 	[[Printing all Permutations of a given string]]
@@ -275,6 +307,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":true,"lane-width":350,"move-tags":true,"tag-colors":[{"tagKey":"#BinaryTree","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(0, 149, 62, 1)"},{"tagKey":"#cpp","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(212, 2, 2, 0.88)"},{"tagKey":"#BST","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(0, 189, 79, 1)"},{"tagKey":"#extra","color":"rgba(54, 54, 54, 1)","backgroundColor":"rgba(61, 226, 255, 1)"}],"show-relative-date":true,"move-dates":true,"date-display-format":"DD/MM","move-task-metadata":false,"metadata-keys":[{"metadataKey":"tags","label":"","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"date_created","label":"created","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"solved","label":"","shouldHideLabel":false,"containsMarkdown":false}]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"full-list-lane-width":true,"lane-width":350,"move-tags":true,"tag-colors":[{"tagKey":"#BinaryTree","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(0, 149, 62, 1)"},{"tagKey":"#cpp","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(212, 2, 2, 0.88)"},{"tagKey":"#BST","color":"rgba(255, 255, 255, 1)","backgroundColor":"rgba(0, 189, 79, 1)"},{"tagKey":"#extra","color":"rgba(54, 54, 54, 1)","backgroundColor":"rgba(61, 226, 255, 1)"},{"tagKey":"#contest","color":"rgba(21, 21, 23, 1)","backgroundColor":"rgba(255, 241, 0, 1)"}],"show-relative-date":true,"move-dates":true,"date-display-format":"DD/MM","move-task-metadata":false,"metadata-keys":[{"metadataKey":"tags","label":"","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"date_created","label":"created","shouldHideLabel":false,"containsMarkdown":false},{"metadataKey":"solved","label":"","shouldHideLabel":false,"containsMarkdown":false}]}
 ```
 %%
