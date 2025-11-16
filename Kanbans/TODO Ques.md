@@ -6,9 +6,11 @@ kanban-plugin: board
 
 ## Question Log
 
-- [ ] [[Advanced Techniques for calculating distinct substrings]]
+- [ ] [[Advanced Techniques for calculating distinct substrings]] ^hqriee
 	- Suffix Tree
 	- Suffix Automaton
+	
+	Related to [[D. Good Substrings]], advanced approaches
 - [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
 	Probably will introduce a cheat day for it
 - [ ] **Interesting String Question**
@@ -96,6 +98,13 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **Rolling Hash Formula Mug up**
+	- [ ] Get the actual formula of rolling hash and make a note of it
+	- [ ] Try implementing [[D. Good Substrings]] using a high modulo value -> this still has integer overflow problem for very big multiplications.. !!!
+- [ ] [[D. Good Substrings]]
+	**Some Extras (important):**
+	- [ ] Double Hashing based approach (See how to have an implementation ready double hashing template)
+	- [ ] Look into the **Prefix Trie** based approach suggested! (Look into this when we come to Tries)
 - [ ] [17/10 Codeforces Contest](https://codeforces.com/contest/2162) **By-Products**
 	- Power Set of calculating subsequences
 	- How do I find the MSB of a number in O(1) time? There exists a trick for this part!!
