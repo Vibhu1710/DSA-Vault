@@ -27,9 +27,9 @@ kanban-plugin: board
 	- [ ] Implement the code part
 - [ ] [Sport Mafia](https://codeforces.com/problemset/problem/1195/B)
 	- [ ] See how it is being solved in editorial (A quadratic equation basically)
+- [ ] **Aho Corasick String Algo?**
 - [ ] **IMPORTANT**
 	**Clearcut extra practice needed for BS ques**
-- [ ] **Aho Corasick String Algo?**
 - [ ] **Power Set Method**
 	to generate all subsequences of a given string
 	pre to [[Longest Common Subsequence]] type question
@@ -86,6 +86,11 @@ kanban-plugin: board
 	- [ ] feature - 1 queNote linked to >1 Q indices
 	- [ ] Screenshots or pngs directly going to assets folder
 	- [x] Archived tasks in Kanban to be removed (as links) (will do manually time to time)
+	- [x] See why file graph explorer is not coming or loading in the side tab!!
+	- [ ] A Daily Notes Template (with hourglass)
+	- [ ] Dot config of daily notes based out of DAY SCORE?
+	- [ ] A note that shows all unsolved ques (with solved parameter as false)
+	- [ ] A note that shows all unattached question list (with no linked vs code file)
 	
 	<br/>
 	
@@ -98,6 +103,19 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **[Leetcode Contest 16/11](https://leetcode.com/contest/weekly-contest-476)**
+	- [ ] Q3 (coding done, by products remaining)
+	- [ ] Q4
+	- [ ] Brute force way of Q2
+	
+	#contest
+- [ ] [[Q3. Count Distinct Integers After Removing Zeros]] ^omfi4g
+	A good combinatorics + constructive algo que asked in leetcode contest 16/11
+	- [x] Think & refine logic
+	- [ ] Look into the suggested chat-gpt approach (open attached note) (This can form another note on the to_string technique to loop through the digits of a given number!!)
+	- [ ] Search :: How are powers handled in DSA? (Do we always need to compute them from scratch?)(What is the TC of pow() func?)
+	
+	#contest
 - [ ] **Rolling Hash Formula Mug up**
 	- [ ] Get the actual formula of rolling hash and make a note of it
 	- [ ] Try implementing [[D. Good Substrings]] using a high modulo value -> this still has integer overflow problem for very big multiplications.. !!!
@@ -116,7 +134,9 @@ kanban-plugin: board
 	#contest
 - [ ] [Leetcode Last Contest](https://leetcode.com/contest/weekly-contest-474/)
 	**Atleast 2 ques to upsolve for this**
-	- [ ] last que from leetcode contest
+	
+	- [ ] Q3 (coding done, by products remaining)
+	- [ ] Q4
 	
 	#contest
 - [ ] [[3720. Lexicographically Smallest Permutation Greater Than Target]]
@@ -146,7 +166,7 @@ kanban-plugin: board
 	- [ ] Notemaking - the in-depth nature of a palindrome
 	
 	#contest
-- [ ] [[Maximum Palindromic Subarray]]
+- [ ] [[Maximum Palindromic Subarray (Theory)]]
 	**trademark theory que**
 	- [x] Know all approaches
 	- [ ] Center expansion approach (implement)
@@ -259,7 +279,6 @@ kanban-plugin: board
 
 ## Done
 
-**Complete**
 - [x] [[Z Algorithm]]
 	- [x] Understanding flow of algo & pseudo algo
 	- [x] analyze different test cases
@@ -296,6 +315,12 @@ kanban-plugin: board
 	 - [x] all approaches
 	 - [x] root N number theory reference (**Important**)
 	 - [x] After word for this question?
+
+
+***
+
+## Archive
+
 - [x] [[Check BST]]
 	
 	- [x] Unoptimized Solution
@@ -309,12 +334,6 @@ kanban-plugin: board
 	 - [x] tagging automation
 	 - [x] Git configuration
 	 - [x] Graph view coloring
-
-
-***
-
-## Archive
-
 - [x] [[Level order traversal (newline based)]]
 
 %% kanban:settings

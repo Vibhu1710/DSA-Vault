@@ -4,3 +4,4 @@
 - [[Aggressive Cows]]
 - [[D. Beautiful Permutation]]
 - [[C. Save More Mice]]
+- [[3733. Minimum Time to Complete All Deliveries]]

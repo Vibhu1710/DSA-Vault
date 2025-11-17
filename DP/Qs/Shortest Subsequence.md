@@ -1,7 +1,8 @@
 ---
-solution_file: 
-tags: []
-type: 
+solution_file:
+tags:
+  - DP
+type:
 solved: false
 platform: CodingNinjas
 date_created: Wed, 15 Oct

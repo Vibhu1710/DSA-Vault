@@ -55,7 +55,8 @@ TITLE: "stl/ordered/set/nextAndDist.cpp"
 LINES: "1-200"
 ```
 
-
+**The Time Complexity of distance function is O(N)!**
+It starts looping from the passed source iterator up till the passed destination iterator!!
 
 ### To know how BinarySearchFuncs work on set
 
