@@ -8,3 +8,4 @@
 - [[Matrix Chain Multiplication]]
 - [[Coin Tower]]
 - [[Maximum Square Matrix With All Zeros]]
+- [[Shortest Subsequence]]
