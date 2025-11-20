@@ -103,12 +103,22 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Longest Common Prefix After Rotation]]
+	- [x] solved this question using z array
+	- [ ] solve this que using KMP algo
+	- [ ] there is also a rollling hash + BS approach being talked about, read through it
 - [ ] **[Leetcode Contest 16/11](https://leetcode.com/contest/weekly-contest-476)**
 	- [ ] Q3 (coding done, by products remaining)
 	- [ ] Q4
 	- [ ] Brute force way of Q2
 	
 	#contest
+- [ ] [Codeforces contest 14/11](https://codeforces.com/contest/2169)
+	questions to be up-solved
+	- [ ] C
+	- [ ] D1
+	- [ ] D2
+	- [ ] E
 - [ ] [[Q3. Count Distinct Integers After Removing Zeros]] ^omfi4g
 	A good combinatorics + constructive algo que asked in leetcode contest 16/11
 	- [x] Think & refine logic
