@@ -1,9 +1,9 @@
 ---
-solution_file:
+solution_file: strings/string 1/prefixSuffix.cpp
 tags:
   - Strings
 type:
-solved: false
+solved: true
 platform: CodeForces
 date_created: Mon, 17 Nov
 ---
