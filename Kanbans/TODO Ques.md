@@ -11,6 +11,9 @@ kanban-plugin: board
 	- Suffix Automaton
 	
 	Related to [[D. Good Substrings]], advanced approaches
+- [ ] [[More questions on Strings 1]]
+	- can fetch more questions from codeforces
+	- but this contains some previously **handpicked ones (To Be Solved)**..
 - [ ] **Some Codeforces Practice Ques left to cove**r, related to BS (level 1200, 1300)
 	Probably will introduce a cheat day for it
 - [ ] **Interesting String Question**
@@ -103,6 +106,17 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Minimum Characters For Palindrome]]
+	- [ ] Binary Search Approach
+	- [ ] Z Array approach
+	- [ ] KMP Algo approach
+	- [x] only LPS array + z array like composition approach **
+	- [ ] Manacher algorithm
+	- [ ] Make a separate theory note of this question...
+	- [ ] And link [[E. Beautiful Palindromes]] & [[Manacher Algorithm]] with it!!
+	- [ ] Highlight in excalidraw - the "LPS array in z array style" technique
+	- [ ] CHATGPT to find other possible solutions if they exist!!
+	- [ ] Just run DSA scraper on word search question to have it in the repo.. I also have a basic after thought on it that I would like to note down..
 - [ ] [[Longest Common Prefix After Rotation]]
 	- [x] solved this question using z array
 	- [ ] solve this que using KMP algo
