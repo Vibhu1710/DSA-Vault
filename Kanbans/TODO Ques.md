@@ -197,12 +197,6 @@ kanban-plugin: board
 	- [ ] DP (try this!!)
 	- [ ] Rolling Hash + BS (crazy approach, a must implement)
 	- [ ] [[Manacher Algorithm]]
-- [ ] [[Manacher Algorithm]]
-	- [x] Learn the flow of algo & pseudo code
-	- [ ] Essence of algo. The whys?
-	- [ ] Time Complexity Analysis
-	- [ ] Implement Code
-	- [ ] Note in notebook
 - [ ] **Oct 29 Codechef Contest**
 	Atleast Upsolve this question from the codeChef contest
 	[[Delete Sorted Subsequence]]
@@ -263,6 +257,12 @@ kanban-plugin: board
 
 ## Cosmetics Left
 
+- [ ] [[Manacher Algorithm]]
+	- [x] Learn the flow of algo & pseudo code
+	- [x] Essence of algo. Similarity with z?
+	- [x] Differences with z
+	- [x] Implement Code
+	- [ ] Note in notebook
 - [ ] **Rabin Karp Algo**
 	- [x] Understanding the working
 	- [x] Mugging up the code/Implementation
