@@ -1,15 +1,12 @@
 ---
-
 excalidraw-plugin: parsed
-tags: [excalidraw]
-
+tags:
+  - excalidraw
+  - BitManipulation
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
-# Excalidraw Data
-
-## Text Elements
-[[BitManipulation/Q Index|Question Bank]] ^j1iChwRT
+# Excalidraw Dat[[BitManipulation/Q Index|Question Bank]]n Bank]]stion Bank]] ^j1iChwRT
 
 
 %%
