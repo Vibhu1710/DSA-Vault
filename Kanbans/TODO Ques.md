@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] [Sport Mafia](https://codeforces.com/problemset/problem/1195/B)
 	- [ ] See how it is being solved in editorial (A quadratic equation basically)
 - [ ] **Aho Corasick String Algo?**
+	linked with tries
 - [ ] **IMPORTANT**
 	**Clearcut extra practice needed for BS ques**
 - [ ] **Power Set Method**
