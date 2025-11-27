@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **Sorting a vector of strings**
+	
+	**What algos can do it in less than O(n^2 * logn) ?**
+	- There are some algos out there and no it is not related to the suffix theory we know of..
+	
+	#byproduct
 - [ ] [[Advanced Techniques for calculating distinct substrings]] ^hqriee
 	- Suffix Tree
 	- Suffix Automaton
