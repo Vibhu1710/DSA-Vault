@@ -52,7 +52,12 @@ kanban-plugin: board
 	#BST
 - [ ] **Merge Sort Algo & its TCA**
 	- to be done #sorting
-- [ ] **Quick Sort Algo**
+- [ ] **Sorting Algorithms** (to be done later)
+	- **Quick Sort Algo** (revisit)
+	- **Radix Sort** <- linear & bounded
+	- **Counting Sort**
+	
+	#sorting
 - [ ] **Operator Overloading**
 	
 	#cpp
