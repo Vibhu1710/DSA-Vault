@@ -126,7 +126,12 @@ kanban-plugin: board
 	- [ ] Rolling Hash + BS (crazy approach, a must implement) <- is this approach even correct??
 	- [ ] [[Manacher Algorithm]]
 - [ ] [[Minimum Characters For Palindrome]]
-	- [ ] Binary Search Approach
+	- [x] *No Binary Search Approach*
+		there is no BS approach possible here!!
+		Instead a Rolling Hash + Linear Search approach does exist !!
+		
+	- [ ] Rolling Hash + Linear Search 
+	- [ ] DP possible??
 	- [ ] Z Array approach
 	- [ ] KMP Algo approach
 	- [x] only LPS array + z array like composition approach **

@@ -31,3 +31,14 @@ and returning the longest palindromic substring goes like:
  
  cout << s.substr(startIndex, lenOfPalindrome) << endl;
  ```
+
+
+
+### Code
+
+[Open File in VS Code](vscode://file/Users/vibhubhanot/Documents/DSA/strings/string 2/manacherAlgo.cpp)
+```embed-cpp
+PATH: "vault://Assets/Code/strings/string 2/manacherAlgo.cpp"
+TITLE: "strings/string 2/manacherAlgo.cpp"
+LINES: "1-200"
+```
