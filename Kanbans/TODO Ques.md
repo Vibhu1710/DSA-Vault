@@ -118,6 +118,13 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Maximum Palindromic Subarray (Theory)]]
+	**trademark theory que**
+	- [x] Know all approaches
+	- [ ] Center expansion approach (implement)
+	- [ ] DP (try this!!)
+	- [ ] Rolling Hash + BS (crazy approach, a must implement) <- is this approach even correct??
+	- [ ] [[Manacher Algorithm]]
 - [ ] [[Minimum Characters For Palindrome]]
 	- [ ] Binary Search Approach
 	- [ ] Z Array approach
@@ -202,13 +209,6 @@ kanban-plugin: board
 	- [ ] Notemaking - the in-depth nature of a palindrome
 	
 	#contest
-- [ ] [[Maximum Palindromic Subarray (Theory)]]
-	**trademark theory que**
-	- [x] Know all approaches
-	- [ ] Center expansion approach (implement)
-	- [ ] DP (try this!!)
-	- [ ] Rolling Hash + BS (crazy approach, a must implement)
-	- [ ] [[Manacher Algorithm]]
 - [ ] **Oct 29 Codechef Contest**
 	Atleast Upsolve this question from the codeChef contest
 	[[Delete Sorted Subsequence]]
