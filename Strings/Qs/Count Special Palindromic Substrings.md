@@ -201,3 +201,11 @@ int specialPalindromes(string &str)
 }
 ```
 
+
+
+
+
+> [!NOTE] After Thoughts
+> - solved this using a manacher algo variation
+> - but couldn't solve the interesting RUNS approach, which in reality is plain and simple
+> 

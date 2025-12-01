@@ -6,6 +6,9 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **Advanced Topic : May need to do this later**
+	
+	**EERTREE**.. also called Palindromic Tree
 - [ ] **Sorting a vector of strings**
 	
 	**What algos can do it in less than O(n^2 * logn) ?**
@@ -118,6 +121,15 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Find all distinct palindromic substrings of a given string]]
+	- [ ] Implement my approach - hashing + sorting later on
+	- [ ] There is also this theory that needs to be evaluated: that total number of palindromic substrings in a given string is always **O(n)** !!
+- [ ] [[Count Special Palindromic Substrings]]
+	- [x] Manacher Algo variation
+	<br/>
+	- [ ] Runs Approach implement
+		Tried and failed at my method :(
+	- [ ] **IMPORTANT**: See how len/2 split formula can be merged into 1.. is there a way to identify this?
 - [ ] [[Maximum Palindromic Subarray (Theory)]]
 	**trademark theory que**
 	- [x] Know all approaches
