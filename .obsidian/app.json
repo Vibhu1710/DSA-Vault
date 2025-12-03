@@ -6,5 +6,6 @@
     "Templates/Scripts/",
     "node_modules/",
     "Excalidraw/"
-  ]
+  ],
+  "showUnsupportedFiles": false
 }
