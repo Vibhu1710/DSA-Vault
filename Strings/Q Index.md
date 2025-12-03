@@ -1,2 +1,5 @@
 - [[E. Beautiful Palindromes]]
 - [[D. Prefixes and Suffixes]]
+- [[Longest Common Prefix After Rotation]]
+- [[Minimum Characters For Palindrome]]
+- [[Count Special Palindromic Substrings]]
