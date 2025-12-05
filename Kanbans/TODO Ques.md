@@ -123,7 +123,8 @@ kanban-plugin: board
 
 - [ ] [[Find all distinct palindromic substrings of a given string]]
 	- [ ] Implement my approach - hashing + sorting later on
-	- [ ] There is also this theory that needs to be evaluated: that total number of palindromic substrings in a given string is always **O(n)** !!
+	- [x] There is also this theory that needs to be evaluated: that total number of palindromic substrings in a given string is always **O(n)** !!
+	-  Findings:  [[Total number of palindromic substrings in a given string]]
 - [ ] [[Count Special Palindromic Substrings]]
 	- [x] Manacher Algo variation
 	<br/>
