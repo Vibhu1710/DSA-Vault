@@ -109,6 +109,7 @@ kanban-plugin: board
 	- [ ] Dot config of daily notes based out of DAY SCORE?
 	- [ ] A note that shows all unsolved ques (with solved parameter as false)
 	- [ ] A note that shows all unattached question list (with no linked vs code file)
+	- [ ] A new AI tool to have speech to text conversion so that it becomes easy to write an approach instead typing it through
 	
 	<br/>
 	
@@ -121,6 +122,16 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[Longest Chunked Palindrome Decomposition]]
+	
+	- [ ] Greedy Approach (BF only) (TC - O(n^2), SC - O(1))
+	- [ ] Greedy + Hashing (TC - O(n), SC - O(n))
+	- [ ] Try Recursive approach
+	- [ ] Read through its DP optimization
+- [ ] [[Last Substring In Lexicographical Order]]
+	- [x] Code Max Suffix Algo
+	- [ ] Implement my O(n^2) method
+	- [x] Note it down?
 - [ ] [[Find all distinct palindromic substrings of a given string]]
 	- [ ] Implement my approach - hashing + sorting later on
 	- [x] There is also this theory that needs to be evaluated: that total number of palindromic substrings in a given string is always **O(n)** !!

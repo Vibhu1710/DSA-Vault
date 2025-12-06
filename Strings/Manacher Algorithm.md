@@ -1,3 +1,7 @@
+---
+tags:
+  - Strings
+---
 
 
 ### Pseudo Code
