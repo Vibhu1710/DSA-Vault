@@ -1,5 +1,8 @@
 - [[E. Beautiful Palindromes]]
+- [[D. Good Substrings]]
 - [[D. Prefixes and Suffixes]]
 - [[Longest Common Prefix After Rotation]]
 - [[Minimum Characters For Palindrome]]
 - [[Count Special Palindromic Substrings]]
+- [[Last Substring In Lexicographical Order]]
+- [[Longest Chunked Palindrome Decomposition]]
