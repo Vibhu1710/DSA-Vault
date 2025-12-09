@@ -125,7 +125,7 @@ kanban-plugin: board
 - [ ] [[Longest Chunked Palindrome Decomposition]]
 	
 	- [ ] Greedy Approach (BF only) (TC - O(n^2), SC - O(1))
-	- [ ] Greedy + Hashing (TC - O(n), SC - O(n))
+	- [x] Greedy + Hashing (TC - O(n), SC - O(n))
 	- [ ] Try Recursive approach
 	- [ ] Read through its DP optimization
 - [ ] [[Last Substring In Lexicographical Order]]
