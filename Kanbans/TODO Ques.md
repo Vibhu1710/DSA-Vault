@@ -201,7 +201,8 @@ kanban-plugin: board
 - [ ] [[Longest Common Prefix After Rotation]]
 	- [x] solved this question using z array
 	- [ ] solve this que using KMP algo
-	- [ ] there is also a rollling hash + BS approach being talked about, read through it
+	- [x] rollling hash + BS approach implement
+	- [x] Brute Force Approach
 - [ ] **[Leetcode Contest 16/11](https://leetcode.com/contest/weekly-contest-476)**
 	- [ ] Q3 (coding done, by products remaining)
 	- [ ] Q4

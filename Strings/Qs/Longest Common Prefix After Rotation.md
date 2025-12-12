@@ -218,3 +218,7 @@ int minimumRequiredShifts(string a, string b){
 }
 ```
 
+
+### Card
+
+![[Screenshot 2025-12-12 at 10.49.56 AM.png|400]]
