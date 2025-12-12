@@ -6,6 +6,21 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] [[LCP Array Application - Checklist]]
+	
+	- [ ] **All the necessary items required to be checked to call for a complete knowledge of LCP questions variants !!**
+	
+	#Strings
+- [ ] [[Most Lucky String]]
+	- This is a question of DP on graphs
+	- It is Hard level, I will solve this question later
+	
+	#DP #graphs
+- [ ] *An Advanced Topic on* **RMQ on LCP Array**
+	
+	You will surely encounter this later.. this is the building block of what we call as **Suffix Tree**
+	
+	#Strings
 - [ ] **Advanced Topic : May need to do this later**
 	
 	**EERTREE**.. also called Palindromic Tree
@@ -122,6 +137,24 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] **String 2 module important TODOs**
+	
+	**Search**
+	1. recursive time complexity of **O(n^k)** in question [[Palindrome Partitioning III]], verify this part..
+	2. the conversion of a **floor based formula into a non floor based formula** !!! There has to be a method because it is at the moment hit and trial (also note worthy if found a method ✍️)
+	3. (**Try this on my own**) How to create an LPS array in brute force way? (comes from [[KMP Algo]])
+	4. How do you get the lexicographically largest subsequence for a given string (**a proper DSA question to attempt**)
+	5. Any way to get to the right formula - related to [[Count Special Palindromic Substrings]] (already mentioned as a point in another card)
+	6. 
+	
+	
+	**Note down**
+	1. the formula for middle element inclusion and exclusion condition in case of a palindrome !! comes from question [[Longest Chunked Palindrome Decomposition]]
+	2. Note down the approach of [[Longest Chunked Palindrome Decomposition]] as a separate note because it took me time to solve this question (to always kind of KIM)
+	3. Concept of double hashing and the birthday bound formula used in case of rolling hash.. came out of the question [[Longest Chunked Palindrome Decomposition]]
+	4. Also note, the 2 techniques for creating rolling hash prefix array - and the wrong one taught to me which is not even used much!!
+	5. Generating all the substrings of a given string will require **O(n^3)** time complexity and **O(n^3)** space complexity
+	6. A proper excalidraw comparison of 2 worlds of palindrome questions.. one starting from a fixed i and the other one being a variable i (uses Manacher most of the times)
 - [ ] [[Longest Chunked Palindrome Decomposition]]
 	
 	- [ ] Greedy Approach (BF only) (TC - O(n^2), SC - O(1))

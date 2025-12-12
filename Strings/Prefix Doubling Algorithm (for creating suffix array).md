@@ -7,6 +7,7 @@ tags:
 ![[Screenshot 2025-11-26 at 2.22.03 PM.png]]
 
 
+The rank array in here is also called inverse suffix array interestingly! This also used while creating LCP array in kasai algo!
 
 ### Code
 
