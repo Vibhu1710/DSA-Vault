@@ -6,6 +6,12 @@ kanban-plugin: board
 
 ## Question Log
 
+- [ ] **What is a Bitwise Trie ?**
+	They say it is used to solve que on subArray with the maximum Xor !!
+	
+	This is a Trie variation !!
+	
+	#Trie
 - [ ] [[LCP Array Application - Checklist]]
 	
 	- [ ] **All the necessary items required to be checked to call for a complete knowledge of LCP questions variants !!**
@@ -198,11 +204,26 @@ kanban-plugin: board
 	- [ ] Highlight in excalidraw - the "LPS array in z array style" technique
 	- [ ] CHATGPT to find other possible solutions if they exist!!
 	- [ ] Just run DSA scraper on word search question to have it in the repo.. I also have a basic after thought on it that I would like to note down..
-- [ ] [[Longest Common Prefix After Rotation]]
-	- [x] solved this question using z array
-	- [ ] solve this que using KMP algo
-	- [x] rollling hash + BS approach implement
-	- [x] Brute Force Approach
+- [ ] **[Codeforces contest 28/11](https://codeforces.com/contest/2170)**
+	
+	- [ ] B, recheck and see its domain & test case space
+	- [ ] C
+	- [ ] D
+	- [ ] E
+	
+	#contest
+- [ ] to_string what is the TC of this function?
+	
+	#byproduct
+- [ ] **[Leetcode Contest 23/11](https://leetcode.com/contest/weekly-contest-477/)**
+	
+	- [ ] Q2 
+	- [ ] Q3
+	- [ ] Q4
+	
+	I was able to solve only the first question !!
+	
+	#contest
 - [ ] **[Leetcode Contest 16/11](https://leetcode.com/contest/weekly-contest-476)**
 	- [ ] Q3 (coding done, by products remaining)
 	- [ ] Q4
@@ -215,6 +236,8 @@ kanban-plugin: board
 	- [ ] D1
 	- [ ] D2
 	- [ ] E
+	
+	#contest
 - [ ] [[Q3. Count Distinct Integers After Removing Zeros]] ^omfi4g
 	A good combinatorics + constructive algo que asked in leetcode contest 16/11
 	- [x] Think & refine logic
@@ -378,6 +401,11 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] [[Longest Common Prefix After Rotation]]
+	- [x] solved this question using z array
+	- [x] solve this que using KMP algo
+	- [x] rollling hash + BS approach implement
+	- [x] Brute Force Approach
 - [x] [[Z Algorithm]]
 	- [x] Understanding flow of algo & pseudo algo
 	- [x] analyze different test cases
