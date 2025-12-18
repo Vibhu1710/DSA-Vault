@@ -143,6 +143,11 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] [[3755. Find Maximum XOR Subarray length]]
+	
+	- [x] Read the solution
+	- [x] Implement the code
+	- [ ] Note down this and club all the XOR questions under the same theory note..
 - [ ] **String 2 module important TODOs**
 	
 	**Search**
