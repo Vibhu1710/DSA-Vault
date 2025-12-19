@@ -6,3 +6,5 @@
 - [[Count Special Palindromic Substrings]]
 - [[Last Substring In Lexicographical Order]]
 - [[Longest Chunked Palindrome Decomposition]]
+- [[Most Lucky String]]
+- [[Palindrome Partitioning III]]

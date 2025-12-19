@@ -143,6 +143,12 @@ kanban-plugin: board
 
 ## Active
 
+- [ ] Related to [[3714. Longest Balanced Substring II]]
+	(I have not solved this linked question as well)
+	
+	Find the longest substring that has **equal number** of **distinct characters**
+	
+	#extra
 - [ ] [[3755. Find Maximum XOR Subarray length]]
 	
 	- [x] Read the solution
@@ -217,12 +223,9 @@ kanban-plugin: board
 	- [ ] E
 	
 	#contest
-- [ ] to_string what is the TC of this function?
-	
-	#byproduct
 - [ ] **[Leetcode Contest 23/11](https://leetcode.com/contest/weekly-contest-477/)**
 	
-	- [ ] Q2 
+	- [x] Q2 
 	- [ ] Q3
 	- [ ] Q4
 	
@@ -243,6 +246,9 @@ kanban-plugin: board
 	- [ ] E
 	
 	#contest
+- [ ] to_string what is the TC of this function?
+	**yup, the complexity is log10(n) !!**
+	#byproduct
 - [ ] [[Q3. Count Distinct Integers After Removing Zeros]] ^omfi4g
 	A good combinatorics + constructive algo que asked in leetcode contest 16/11
 	- [x] Think & refine logic
